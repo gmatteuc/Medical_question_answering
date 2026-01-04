@@ -1,0 +1,592 @@
+=== QUERY 1 ===
+Context Snippet:
+Croup is an inflammation of the vocal cords (larynx) and windpipe (trachea). It causes difficulty breathing, a barking cough, and a hoarse voice. The cause is usually a virus, often parainfluenza virus. Other causes include allergies and reflux.    Croup often starts out like a cold. But then the vocal cords and windpipe become swollen, causing the hoarseness and the cough. There may also be a fever and high-pitched noisy sounds when breathing. The symptoms are usually worse at night, and last f...
+
+Generated Question:
+What are the primary causes of croup, as described in the text?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 2 ===
+Context Snippet:
+Dyssynergia Cerebellaris Myoclonica refers to a collection of rare, degenerative, neurological disorders characterized by epilepsy, cognitive impairment, myoclonus, and progressive ataxia. Symptoms include seizures, tremor, and reduced muscle coordination. Onset of the disorder generally occurs in early adulthood. Tremor may begin in one extremity and later spread to involve the entire voluntary muscular system. Arms are usually more affected than legs. Some of the cases are due to mitochondrial...
+
+Generated Question:
+Which of the following is commonly observed in patients with Dyssynergia Cerebellaris Myoclonica?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 3 ===
+Context Snippet:
+What causes common variable immunodeficiency (CVID)? Common variable immunodeficiency (CVID) is usually sporadic and thought to result from a combination of genetic and environmental factors. In most cases, the exact cause of CVID is unknown. Genetic factors associated with CVID include mutations in genes involved in the development and function of immune system cells (B cells) which help protect against infection. B cells make proteins called antibodies (also known as immunoglobulins), which at...
+
+Generated Question:
+What role do mutations in genes involved in the development and function of B cells play in the development of Common Variable Immunodeficiency (CVID)?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 4 ===
+Context Snippet:
+What are the signs and symptoms of Microphthalmia syndromic 5? The Human Phenotype Ontology provides the following list of signs and symptoms for Microphthalmia syndromic 5. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Cleft palate 5% Cryptorchidism 5% Ectopic...
+
+Generated Question:
+What are the signs of Microphthalmia syndromic 5, according to the Human Phenotype Ontology?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 5 ===
+Context Snippet:
+What are the signs and symptoms of Nijmegen breakage syndrome? The Human Phenotype Ontology provides the following list of signs and symptoms for Nijmegen breakage syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormal hair quantity 90% Abnormal immun...
+
+Generated Question:
+What is the approximate number of patients with abnormal hair quantity who have Nijmegen breakage syndrome?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 6 ===
+Context Snippet:
+Stenotrophomonas maltophilia (S. maltophilia) infection is a healthcare-associated bacterial infection caused by S. maltophilia bacteria. These bacteria typically colonize (live in or on) areas of the body without causing infection. However, people who are hospitalized and receiving treatment for other conditions may be susceptible to infection, especially those with severely impaired immune systems. Factors that increase the risk for S. maltophilia infection include admission to an intensive ca...
+
+Generated Question:
+What is the primary mechanism of risk for S. maltophilia infection in hospitalized individuals?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 7 ===
+Context Snippet:
+Scientists who are working to better understand and treat psoriasis are making headway in several different areas. The Role of T Cells Scientists believe that psoriasis occurs when white blood cells called T cells, which normally help fight infections, attack the bodys skin cells by mistake. Scientists are working to understand what causes these cells to go awry in people with psoriasis. Their hope is that by better understanding why T cells attack the bodys healthy skin tissue, they can develop...
+
+Generated Question:
+What types of immune system actions are scientists targeting in new psoriasis treatments?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 8 ===
+Context Snippet:
+What are the signs and symptoms of Primary Familial Brain Calcification? The Human Phenotype Ontology provides the following list of signs and symptoms for Primary Familial Brain Calcification. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of neuron...
+
+Generated Question:
+What percentage of patients with Primary Familial Brain Calcification exhibit signs of microcephaly?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 9 ===
+Context Snippet:
+What causes Klippel Feil syndrome (KFS)?  The specific underlying causes and mechanisms of Klippel Feil syndrome (KFS)are not well understood.  In general medical researchers believe KFS happens when the tissue of the embroyo that normally develops into separate vertebrae does not divide correctly.  More specifically, when KFS occurs with other syndromes such as fetal alcohol syndrome, Goldenhar syndrome, Wildervanck syndrome or hemifacial microsomia, medical researchers believe KFS has the same...
+
+Generated Question:
+What are the three genes linked to Klippel Feil syndrome (KFS), and which of these is a possible cause of the condition?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 10 ===
+Context Snippet:
+What are the signs and symptoms of Guillain-Barre syndrome? The Human Phenotype Ontology provides the following list of signs and symptoms for Guillain-Barre syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Acute demyelinating polyneuropathy - The Human ...
+
+Generated Question:
+What are the signs and symptoms of Guillain-Barre syndrome as described by the Human Phenotype Ontology?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 11 ===
+Context Snippet:
+Signs of childhood Hodgkin lymphoma include swollen lymph nodes, fever, night sweats, and weight loss. These and other signs and symptoms may be caused by childhood Hodgkin lymphoma or by other conditions. Check with your child's doctor if your child has any of the following:         - Painless, swollen lymph nodes near the collarbone or in the neck, chest, underarm, or groin.    -  Fever for no known reason.     - Weight loss for no known reason.    - Night sweats.    -  Fatigue.    -  Anorexia...
+
+Generated Question:
+Which of the following symptoms are typically considered B symptoms?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 12 ===
+Context Snippet:
+Common Symptoms There are many symptoms associated with depression, and some will vary depending on the individual. However, some of the most common symptoms are listed below. If you have several of these symptoms for more than two weeks, you may have depression. - feeling nervous or emotionally "empty"  - feelings of excessive guilt or worthlessness  - tiredness or a "slowed down" feeling  - restlessness and irritability  - feeling like life is not worth living  - sleep problems, including trou...
+
+Generated Question:
+What are some symptoms commonly associated with depression, and how many of them can be present for a period of time before diagnosis is considered?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 13 ===
+Context Snippet:
+LCMV infection can be prevented by avoiding contact with wild mice and taking precautions when handling pet rodents (i.e. mice, hamsters, or guinea pigs). 
+                
+Rarely, pet rodents may become infected with LCMV from wild rodents. Breeders, pet stores, and pet owners should take measures to prevent infestations of wild rodents. Pet rodents should not come into contact with wild rodents. If you have a pet rodent, wash your hands with soap and water (or waterless alcohol-based hand rubs...
+
+Generated Question:
+What precautions should be taken when cleaning rodent-infected areas?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 14 ===
+Context Snippet:
+Most cases of ovarian cancer are not caused by inherited genetic factors. These cancers are associated with somatic mutations that are acquired during a person's lifetime, and they do not cluster in families.  A predisposition to cancer caused by a germline mutation is usually inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to increase a person's chance of developing cancer. Although ovarian cancer occurs only in women, the mutated ...
+
+Generated Question:
+What is the relationship between the presence of a mutated gene and the likelihood of developing ovarian cancer?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 15 ===
+Context Snippet:
+The possible signs of lung cancer are: - a cough that doesn't go away and gets worse over time  - constant chest pain  - coughing up blood  - shortness of breath, wheezing, or hoarseness  - repeated problems with pneumonia or bronchitis  - swelling of the neck and face  - loss of appetite or weight loss  - fatigue. a cough that doesn't go away and gets worse over time constant chest pain coughing up blood shortness of breath, wheezing, or hoarseness repeated problems with pneumonia or bronchitis...
+
+Generated Question:
+What are the possible signs of lung cancer, as listed in the text?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 16 ===
+Context Snippet:
+Factor XIII deficiency is an extremely rare inherited blood disorder characterized by abnormal blood clotting that may result in abnormal bleeding. Signs and symptoms occur as the result of a deficiency in the blood clotting factor 13, which is responsible for stabilizing the formation of a blood clot. In affected individuals, the blood fails to clot appropriately, resulting in poor wound healing. Blood may seep into surrounding soft tissues, resulting in local pain and swelling. Internal bleedi...
+
+Generated Question:
+What is the primary mechanism by which Factor XIII deficiency leads to abnormal bleeding and wound healing?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 17 ===
+Context Snippet:
+Mutations in the FTL gene cause neuroferritinopathy. The FTL gene provides instructions for making the ferritin light chain, which is one part (subunit) of a protein called ferritin. Ferritin stores and releases iron in cells. Each ferritin molecule can hold as many as 4,500 iron atoms. This storage capacity allows ferritin to regulate the amount of iron in the cells and tissues.  Mutations in the FTL gene that cause neuroferritinopathy are believed to reduce ferritin's ability to store iron, re...
+
+Generated Question:
+What is the primary consequence of mutations in the FTL gene that lead to neuroferritinopathy?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 18 ===
+Context Snippet:
+Achondroplasia with severe combined immunodeficiency is an extremely rare type of SCID. The condition is characterized by the classic signs of SCID, including severe and recurrent infections, diarrhea, failure to thrive, and absence of T and B lymphocytes along with skeletal anomalies like short stature, bowing of the long bones and other abnormalities affecting the ends of the long bones (metaphyseal abnormalities). Children with this condition have a shortened life expectancy, generally surviv...
+
+Generated Question:
+What are the characteristic skeletal anomalies associated with Achondroplasia with severe combined immunodeficiency?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 19 ===
+Context Snippet:
+Buschke-Ollendorff syndrome results from mutations in the LEMD3 gene. This gene provides instructions for making a protein that helps control signaling through two chemical pathways known as the bone morphogenic protein (BMP) and transforming growth factor-beta (TGF-) pathways. These signaling pathways regulate various cellular processes and are involved in the growth of cells, including new bone cells.  Mutations in the LEMD3 gene reduce the amount of functional LEMD3 protein that is produced. ...
+
+Generated Question:
+What cellular processes are regulated by the bone morphogenic protein (BMP) and transforming growth factor-beta (TGF-) pathways, and how does Buschke-Ollendorff syndrome affect their regulation?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 20 ===
+Context Snippet:
+Abdominal surgery is the most frequent cause of abdominal adhesions. Surgery-related causes include
+                
+- cuts involving internal organs   - handling of internal organs  - drying out of internal organs and tissues  - contact of internal tissues with foreign materials, such as gauze, surgical gloves, and stitches  - blood or blood clots that were not rinsed away during surgery
+                
+Abdominal adhesions can also result from inflammation not related to surgery, including
+   ...
+
+Generated Question:
+What are the most frequent causes of abdominal adhesions, according to the text?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 21 ===
+Context Snippet:
+Key Points
+                    - Colorectal cancer is a disease in which malignant (cancer) cells form in the tissues of the colon or the rectum.     - Colorectal cancer is the second leading cause of death from cancer in the United States.     - Different factors increase or decrease the risk of getting colorectal cancer.
+                
+                
+                    Colorectal cancer is a disease in which malignant (cancer) cells form in the tissues of the colon or the rectum.
+        ...
+
+Generated Question:
+What are the two organs that make up the final part of the large intestine?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 22 ===
+Context Snippet:
+What are the signs and symptoms of Renal dysplasia-limb defects syndrome? The Human Phenotype Ontology provides the following list of signs and symptoms for Renal dysplasia-limb defects syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormal form of th...
+
+Generated Question:
+What are the signs and symptoms of Renal dysplasia-limb defects syndrome, according to the Human Phenotype Ontology (HPO)?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 23 ===
+Context Snippet:
+Medical experts do not know the exact cause of Peyronies disease. Many believe that Peyronies disease may be the result of
+                
+- acute injury to the penis  - chronic, or repeated, injury to the penis  - autoimmune diseasea disorder in which the bodys immune system attacks the bodys own cells and organs
+                
+Injury to the Penis
+                
+Medical experts believe that hitting or bending the penis may injure the tissues inside. A man may injure the penis during sex, a...
+
+Generated Question:
+What role does an autoimmune disease potentially play in the development of Peyronies disease?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 24 ===
+Context Snippet:
+What are the signs and symptoms of Microphthalmia syndromic 6? The Human Phenotype Ontology provides the following list of signs and symptoms for Microphthalmia syndromic 6. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Aplasia/Hypoplasia affecting the eye 90% ...
+
+Generated Question:
+What is the approximate percentage of people with Microphthalmia syndromic 6 who experience aplasia/hypoplasia affecting the eye?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 25 ===
+Context Snippet:
+How might epithelial basement membrane corneal dystrophy be treated? Because most people do not develop noticeable signs or symptoms, treatment usually is not necessary. However, if treatment is needed, doctors will try to control the pain associated with the epithelial erosions. They may patch the eye to immobilize it, or prescribe lubricating eye drops and ointments. With treatment, these erosions usually heal within three days, although periodic flashes of pain may occur for several weeks the...
+
+Generated Question:
+What are the potential treatment options for epithelial basement membrane corneal dystrophy?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 26 ===
+Context Snippet:
+Sometimes doctors can find out what is causing pulmonary fibrosis (lung scarring). For example, exposure to environmental pollutants and certain medicines can cause the disease.
+                
+Environmental pollutants include inorganic dust (silica and hard metal dusts) and organic dust (bacteria and animal proteins).
+                
+Medicines that are known to cause pulmonary fibrosis in some people include nitrofurantoin (an antibiotic), amiodarone (a heart medicine), methotrexate and bleom...
+
+Generated Question:
+What is a potential mechanism by which people with GERD may contribute to the development of IPF?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 27 ===
+Context Snippet:
+- Pyelonephritis is a type of urinary tract infection that affects one or both kidneys.  - Pyelonephritis is caused by a bacterium or virus infecting the kidneys. Though many bacteria and viruses can cause pyelonephritis, the bacterium Escherichia coli is often the cause. Bacteria and viruses can move to the kidneys from the bladder or can be carried through the bloodstream from other parts of the body.  - Symptoms of pyelonephritis can vary depending on a persons age and may include the followi...
+
+Generated Question:
+What is the most common cause of pyelonephritis?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 28 ===
+Context Snippet:
+Renal tubular dysgenesis is a severe kidney disorder characterized by abnormal development of the kidneys before birth. In particular, kidney structures called proximal tubules are absent or underdeveloped. These structures help to reabsorb needed nutrients, water, and other materials into the blood and excrete everything else into the urine. Without functional proximal tubules, the kidneys cannot produce urine (a condition called anuria).  Fetal urine is the major component of the fluid that su...
+
+Generated Question:
+What is the primary mechanism by which renal tubular dysgenesis leads to oligohydramnios?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 29 ===
+Context Snippet:
+What are the signs and symptoms of Curry Jones syndrome? The Human Phenotype Ontology provides the following list of signs and symptoms for Curry Jones syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Finger syndactyly 90% Hypertelorism 90% Hypopigmented...
+
+Generated Question:
+What are the approximate percentages of patients with Curry Jones syndrome who present with "finger syndactyly," "abnormality of the thumb phalanx," and "aplasia/hypoplasia affecting the eye"?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 30 ===
+Context Snippet:
+Sudden cardiac arrest (SCA) is a condition in which the heart suddenly and unexpectedly stops beating. If this happens, blood stops flowing to the brain and other vital organs.
+                
+SCA usually causes death if it's not treated within minutes.
+                
+Overview
+                
+To understand SCA, it helps to understand how the heart works. The heart has an electrical system that controls the rate and rhythm of the heartbeat. Problems with the heart's electrical system can caus...
+
+Generated Question:
+What is the primary cause of sudden cardiac arrest (SCA)?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 31 ===
+Context Snippet:
+How might Barrett esophagus be treated? The treatment of Barrett esophagus largely depends on the severity of the condition as determined by the level of dysplasia seen on biopsy. In people with no dysplasia or low-grade dysplasia, treatment is often focused on easing the signs and symptoms of gastroesophageal reflux disease (GERD), which can cause further damage to the esophagus. This may include certain medications and lifestyle modifications such as avoiding smoking; eliminating food and drin...
+
+Generated Question:
+What are the treatment options for people with no dysplasia or low-grade dysplasia of Barrett esophagus?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 32 ===
+Context Snippet:
+Polycythemia vera (PV) develops slowly. The disease may not cause signs or symptoms for years.
+                
+When signs and symptoms are present, they're the result of the thick blood that occurs with PV. This thickness slows the flow of oxygen-rich blood to all parts of your body. Without enough oxygen, many parts of your body won't work normally.
+                
+The signs and symptoms of PV include:
+                
+Headaches, dizziness, and weakness
+                
+Shortness of breath an...
+
+Generated Question:
+What are the complications of polycythemia vera, besides blood clots?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 33 ===
+Context Snippet:
+Since the virus remains in the person for life, there is no treatment to eliminate CMV infection. However, minimizing contact with infected body fluids can decrease the risk of viral transmission between individuals or from mother to fetus. Contact can be minimized by using gloves or other protective barriers when handling body fluids or contaminated materials (such as diapers or tissues), avoiding shared dishes, utensils, and other personal items, and consistent and thorough hand-washing. 
+    ...
+
+Generated Question:
+What methods can be used to minimize the risk of CMV transmission?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 34 ===
+Context Snippet:
+What are the signs and symptoms of Mousa Al din Al Nassar syndrome? The Human Phenotype Ontology provides the following list of signs and symptoms for Mousa Al din Al Nassar syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Cataract 90% Corneal dystrophy ...
+
+Generated Question:
+What are the most common signs and symptoms of Mousa Al din Al Nassar syndrome?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 35 ===
+Context Snippet:
+Tests that examine the lymph nodes are used to detect (find) and diagnose adult Hodgkin lymphoma. The following tests and procedures may be used:         -   Physical exam and history : An exam of the body to check general signs of health, including checking for signs of disease, such as lumps or anything else that seems unusual. A history of the patient's past illnesses and treatments will also be taken.    -   Complete blood count (CBC): A procedure in which a sample of blood is drawn and chec...
+
+Generated Question:
+What types of tests are used to diagnose adult Hodgkin lymphoma?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 36 ===
+Context Snippet:
+Congenital mirror movement disorder is a condition in which intentional movements of one side of the body are mirrored by involuntary movements of the other side. For example, when an affected individual makes a fist with the right hand, the left hand makes a similar movement. The mirror movements in this disorder primarily involve the upper limbs, especially the hands and fingers. This pattern of movements is present from infancy or early childhood and usually persists throughout life, without ...
+
+Generated Question:
+How can congenital mirror movement disorder affect an individual's ability to engage in activities requiring fine motor control, such as typing?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 37 ===
+Context Snippet:
+What are the signs and symptoms of Porokeratosis of Mibelli? The Human Phenotype Ontology provides the following list of signs and symptoms for Porokeratosis of Mibelli. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Aplasia/Hypoplasia of the skin 90% Hyperkerat...
+
+Generated Question:
+What are the approximate percentages of patients with Porokeratosis of Mibelli who exhibit skin aplasia/hypoplasia, hyperkeratosis, cutaneous photosensitivity, and pruritus?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 38 ===
+Context Snippet:
+Key Points
+                    - There are different types of treatment for patients with urethral cancer.    - Four types of standard treatment are used:         - Surgery     - Radiation therapy     - Chemotherapy     - Active surveillance        - New types of treatment are being tested in clinical trials.    - Patients may want to think about taking part in a clinical trial.    - Patients can enter clinical trials before, during, or after starting their cancer treatment.    - Follow-up tests...
+
+Generated Question:
+What are the different types of surgeries used to treat urethral cancer?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 39 ===
+Context Snippet:
+What are the signs and symptoms of Epidermolysis bullosa acquisita? Symptoms of epidermolysis bullosa acquisita (EBA) usually occur in a person's 30s or 40s. The signs and symptoms can differ among affected people, and the condition has several distinct forms of onset. For example: Non-inflammatory or mildly inflammatory EBA affecting only trauma-prone skin (the "classic" form) may cause: tense, blood- or pus-filled blisters, mostly on the hands, knees, knuckles, elbows and ankles mucous-membran...
+
+Generated Question:
+What are the typical signs and symptoms of Epidermolysis bullosa acquisita, and how often are they observed in affected individuals?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 40 ===
+Context Snippet:
+How might osteochondritis dissecans be treated? The primary aim of treatment for osteochondritis dissecans is to restore normal function of the affected joint, relieve pain and prevent osteoarthritis. Treatment for the condition varies depending on many factors including the age of the affected person and the severity of the symptoms. In children and young teens, osteochondritis dissecans often heals overtime without surgical treatment. These cases are often managed with rest and in some cases, ...
+
+Generated Question:
+What are the primary goals of osteochondritis dissecans treatment?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 41 ===
+Context Snippet:
+Familial lipoprotein lipase deficiency is an inherited condition that disrupts the normal breakdown of fats in the body, resulting in an increase of certain kinds of fats.  People with familial lipoprotein lipase deficiency typically develop signs and symptoms before age 10, with one-quarter showing symptoms by age 1. The first symptom of this condition is usually abdominal pain, which can vary from mild to severe. The abdominal pain is often due to inflammation of the pancreas (pancreatitis). T...
+
+Generated Question:
+What is the primary mechanism by which fat accumulates in the liver and spleen of individuals with familial lipoprotein lipase deficiency?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 42 ===
+Context Snippet:
+Spinal muscular atrophy (SMA) is a genetic disease that attacks nerve cells, called motor neurons, in the spinal cord. These cells communicate with your voluntary muscles - the ones you can control, like in your arms and legs. As the neurons die, the muscles weaken. This can affect walking, crawling, breathing, swallowing, and head and neck control.    SMA runs in families. Parents usually have no symptoms, but still carry the gene. Genetic counseling is important if the disease runs in your fam...
+
+Generated Question:
+What types of symptoms can occur in patients with spinal muscular atrophy (SMA) due to the damage and weakening of motor neurons?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 43 ===
+Context Snippet:
+- Wilson disease is a genetic disease that prevents the body from removing extra copper.  - Normally, the liver filters extra copper and releases it into bile. In Wilson disease, the liver does not filter copper correctly and copper builds up in the liver, brain, eyes, and other organs.  - Wilson disease is caused by an inherited autosomal recessive mutation, or change, in the ATP7B gene. In an autosomal recessive disease, the child has to inherit the gene mutation from both parents to have an i...
+
+Generated Question:
+What specific dietary restrictions should individuals with Wilson disease follow, and what foods are typically avoided to reduce copper intake?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 44 ===
+Context Snippet:
+Summary : Electric and magnetic fields (EMFs) are areas of energy that surround electrical devices. Everyday sources of EMFs include       - Power lines    - Electrical wiring    - Microwave ovens    - Computers    - Cell phones       Some people worry about EMF exposure and cancer. Some studies have found a link between EMF exposure and a higher risk of childhood leukemia, but other studies have not. Other studies have not found proof that EMF exposure causes other childhood cancers. Studies in...
+
+Generated Question:
+What are the potential consequences of exposure to electromagnetic fields (EMF) that are associated with childhood leukemia risk, according to studies cited in the text?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 45 ===
+Context Snippet:
+Asphyxiating thoracic dystrophy, also known as Jeune syndrome, is an inherited disorder of bone growth characterized by a narrow chest, short ribs, shortened bones in the arms and legs, short stature, and extra fingers and toes (polydactyly). Additional skeletal abnormalities can include unusually shaped collarbones (clavicles) and pelvic bones, and and cone-shaped ends of the long bones in the arms and legs. Many infants with this condition are born with an extremely narrow, bell-shaped chest t...
+
+Generated Question:
+What breathing difficulties are most common in infants with asphyxiating thoracic dystrophy?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 46 ===
+Context Snippet:
+The urinary tract is the bodys drainage system for removing wastes and extra water. The urinary tract includes two kidneys, two ureters, a bladder, and a urethra. The kidneys are a pair of bean-shaped organs, each about the size of a fist and located below the ribs, one on each side of the spine, toward the middle of the back. Every minute, a persons kidneys filter about 3 ounces of blood, removing wastes and extra water. The wastes and extra water make up the 1 to 2 quarts of urine an adult pro...
+
+Generated Question:
+What is the approximate daily urine production volume for an adult?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 47 ===
+Context Snippet:
+Mutations in the ITGA2B or ITGB3 gene cause Glanzmann thrombasthenia. These genes provide instructions for making the two parts (subunits) of a receptor protein called integrin alphaIIb/beta3 (IIb3). This protein is abundant on the surface of platelets. Platelets are small cell fragments that circulate in blood and are an essential component of blood clots. During clot formation, integrin IIb3 helps platelets bind together. Blood clots protect the body after injury by sealing off damaged blood v...
+
+Generated Question:
+What are the clinical consequences of a deficiency of functional integrin IIb3 in the presence of mutations in the ITGA2B or ITGB3 gene?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 48 ===
+Context Snippet:
+The National Institute of Neurological Disorders and Stroke (NINDS), a part of the National institutes of Health (NIH), supports research on DBS to determine its safety, reliability, and effectiveness as a treatment for PD. NINDS supported research on brain circuitry was critical to the development of DBS.
+                
+Researchers are continuing to study DBS and to develop ways of improving it. A two-part study funded by the NINDS and the Department of Veterans Affairs first compared bilater...
+
+Generated Question:
+What were the reported differences between the STN DBS group and the GPI DBS group on a test of visuomotor processing speed, and on a standard assessment of depression?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 49 ===
+Context Snippet:
+Preventing perineal injury requires being aware of and taking steps to minimize the dangers of activities such as construction work or bike riding:
+                
+- People should talk with their health care provider about the benefits and risks of perineal surgery well before the operation.  - People who play or work around moving equipment or sharp objects should wear protective gear whenever possible.  - People who ride bikes, motorcycles, or horses should find seats or saddles designed to p...
+
+Generated Question:
+What are the recommended positions for bike riders as a way to minimize pressure on the perineum?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 50 ===
+Context Snippet:
+Benign familial neonatal seizures (BFNS) is a condition characterized by recurrent seizures in newborn babies. The seizures begin around day 3 of life and usually go away within 1 to 4 months. The seizures can involve only one side of the brain (focal seizures) or both sides (generalized seizures). Many infants with this condition have generalized tonic-clonic seizures (also known as grand mal seizures). This type of seizure involves both sides of the brain and affects the entire body, causing m...
+
+Generated Question:
+What type of seizure is most commonly associated with BFNS, and how does it typically present?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 51 ===
+Context Snippet:
+OUT_OF_DOMAIN...
+
+Generated Question:
+What is the capital of France?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 52 ===
+Context Snippet:
+OUT_OF_DOMAIN...
+
+Generated Question:
+Who won the 2024 Super Bowl?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 53 ===
+Context Snippet:
+OUT_OF_DOMAIN...
+
+Generated Question:
+Who was Asclepius?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 54 ===
+Context Snippet:
+OUT_OF_DOMAIN...
+
+Generated Question:
+who are you?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 55 ===
+Context Snippet:
+OUT_OF_DOMAIN...
+
+Generated Question:
+How do I bake a chocolate cake?
+
+Validation: YES (Automatically Filtered)
+==================================================
+

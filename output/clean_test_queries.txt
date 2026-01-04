@@ -1,0 +1,54 @@
+1. What are the primary causes of croup, as described in the text?
+2. Which of the following is commonly observed in patients with Dyssynergia Cerebellaris Myoclonica?
+3. What role do mutations in genes involved in the development and function of B cells play in the development of Common Variable Immunodeficiency (CVID)?
+4. What are the signs of Microphthalmia syndromic 5, according to the Human Phenotype Ontology?
+5. What is the approximate number of patients with abnormal hair quantity who have Nijmegen breakage syndrome?
+6. What is the primary mechanism of risk for S. maltophilia infection in hospitalized individuals?
+7. What types of immune system actions are scientists targeting in new psoriasis treatments?
+8. What percentage of patients with Primary Familial Brain Calcification exhibit signs of microcephaly?
+9. What are the three genes linked to Klippel Feil syndrome (KFS), and which of these is a possible cause of the condition?
+10. What are the signs and symptoms of Guillain-Barre syndrome as described by the Human Phenotype Ontology?
+11. Which of the following symptoms are typically considered B symptoms?
+12. What are some symptoms commonly associated with depression, and how many of them can be present for a period of time before diagnosis is considered?
+13. What precautions should be taken when cleaning rodent-infected areas?
+14. What is the relationship between the presence of a mutated gene and the likelihood of developing ovarian cancer?
+15. What are the possible signs of lung cancer, as listed in the text?
+16. What is the primary mechanism by which Factor XIII deficiency leads to abnormal bleeding and wound healing?
+17. What is the primary consequence of mutations in the FTL gene that lead to neuroferritinopathy?
+18. What are the characteristic skeletal anomalies associated with Achondroplasia with severe combined immunodeficiency?
+19. What cellular processes are regulated by the bone morphogenic protein (BMP) and transforming growth factor-beta (TGF-) pathways, and how does Buschke-Ollendorff syndrome affect their regulation?
+20. What are the most frequent causes of abdominal adhesions, according to the text?
+21. What are the two organs that make up the final part of the large intestine?
+22. What are the signs and symptoms of Renal dysplasia-limb defects syndrome, according to the Human Phenotype Ontology (HPO)?
+23. What role does an autoimmune disease potentially play in the development of Peyronies disease?
+24. What is the approximate percentage of people with Microphthalmia syndromic 6 who experience aplasia/hypoplasia affecting the eye?
+25. What are the potential treatment options for epithelial basement membrane corneal dystrophy?
+26. What is a potential mechanism by which people with GERD may contribute to the development of IPF?
+27. What is the most common cause of pyelonephritis?
+28. What is the primary mechanism by which renal tubular dysgenesis leads to oligohydramnios?
+29. What are the approximate percentages of patients with Curry Jones syndrome who present with "finger syndactyly," "abnormality of the thumb phalanx," and "aplasia/hypoplasia affecting the eye"?
+30. What is the primary cause of sudden cardiac arrest (SCA)?
+31. What are the treatment options for people with no dysplasia or low-grade dysplasia of Barrett esophagus?
+32. What are the complications of polycythemia vera, besides blood clots?
+33. What methods can be used to minimize the risk of CMV transmission?
+34. What are the most common signs and symptoms of Mousa Al din Al Nassar syndrome?
+35. What types of tests are used to diagnose adult Hodgkin lymphoma?
+36. How can congenital mirror movement disorder affect an individual's ability to engage in activities requiring fine motor control, such as typing?
+37. What are the approximate percentages of patients with Porokeratosis of Mibelli who exhibit skin aplasia/hypoplasia, hyperkeratosis, cutaneous photosensitivity, and pruritus?
+38. What are the different types of surgeries used to treat urethral cancer?
+39. What are the typical signs and symptoms of Epidermolysis bullosa acquisita, and how often are they observed in affected individuals?
+40. What are the primary goals of osteochondritis dissecans treatment?
+41. What is the primary mechanism by which fat accumulates in the liver and spleen of individuals with familial lipoprotein lipase deficiency?
+42. What types of symptoms can occur in patients with spinal muscular atrophy (SMA) due to the damage and weakening of motor neurons?
+43. What specific dietary restrictions should individuals with Wilson disease follow, and what foods are typically avoided to reduce copper intake?
+44. What are the potential consequences of exposure to electromagnetic fields (EMF) that are associated with childhood leukemia risk, according to studies cited in the text?
+45. What breathing difficulties are most common in infants with asphyxiating thoracic dystrophy?
+46. What is the approximate daily urine production volume for an adult?
+47. What are the clinical consequences of a deficiency of functional integrin IIb3 in the presence of mutations in the ITGA2B or ITGB3 gene?
+48. What were the reported differences between the STN DBS group and the GPI DBS group on a test of visuomotor processing speed, and on a standard assessment of depression?
+49. What are the recommended positions for bike riders as a way to minimize pressure on the perineum?
+50. What type of seizure is most commonly associated with BFNS, and how does it typically present?
+51. What is the capital of France?
+52. Who won the 2024 Super Bowl?
+53. Who was Asclepius?
+54. How do I bake a chocolate cake?

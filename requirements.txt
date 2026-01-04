@@ -1,0 +1,17 @@
+torch
+transformers
+sentence-transformers
+faiss-cpu
+bitsandbytes
+accelerate
+peft
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyter
+ipykernel
+tqdm
+datasets
+rouge-score
+huggingface_hub

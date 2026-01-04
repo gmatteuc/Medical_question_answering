@@ -1,0 +1,16 @@
+Query,Answer,Faithfulness,Relevance
+What are the symptoms of LCM?,"The symptoms of LCM can include fever, malaise, lack of appetite, muscle aches, headache, nausea, and vomiting. Other symptoms appearing less frequently include sore throat, cough, joint pain, chest pain, testicular pain, and parotid (salivary gland) pain.",3,5
+How is LCHAD deficiency treated?,"LCHAD deficiency is a rare condition that prevents the body from converting certain fats to energy.  Treatment options focus on managing symptoms and complications.  
+
+Here are some general approaches:
+
+* **Dietary Management:**  A specialized diet may be necessary to ensure adequate fat intake and energy production.
+* **Supplementation:**  Supplements may be used to address deficiencies in certain nutrients.
+* **Medications:**  Medications may be prescribed to manage symptoms like hypoglycemia, muscle pain, and fatigue.
+* **Monitoring:**  Regular monitoring of blood sugar levels, liver function, and other vital signs is crucial.
+* **Palliative Care:**  Palliative care may be provided to address symptoms and improve quality of life.
+
+It's important to note that treatment plans are individualized based on the severity of symptoms and the patient's overall health.",5,5
+What causes Lymphocytic Choriomeningitis?,The provided text states that LCM is caused by the Lymphocytic Choriomeningitis virus.,5,5
+Can LCM be fatal?,I don't know. (Confidence too low: 0.96 > 0.8),N/A,N/A (Abstained)
+What is the capital of France?,I don't know. (Confidence too low: 1.68 > 0.8),N/A,N/A (Abstained)

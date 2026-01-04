@@ -1,0 +1,70 @@
+=== QUERY 1 ===
+Context Snippet:
+Croup is an inflammation of the vocal cords (larynx) and windpipe (trachea). It causes difficulty breathing, a barking cough, and a hoarse voice. The cause is usually a virus, often parainfluenza virus. Other causes include allergies and reflux.    Croup often starts out like a cold. But then the vocal cords and windpipe become swollen, causing the hoarseness and the cough. There may also be a fever and high-pitched noisy sounds when breathing. The symptoms are usually worse at night, and last f...
+
+Generated Question:
+What are the primary causes of croup, as described in the text?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 2 ===
+Context Snippet:
+Dyssynergia Cerebellaris Myoclonica refers to a collection of rare, degenerative, neurological disorders characterized by epilepsy, cognitive impairment, myoclonus, and progressive ataxia. Symptoms include seizures, tremor, and reduced muscle coordination. Onset of the disorder generally occurs in early adulthood. Tremor may begin in one extremity and later spread to involve the entire voluntary muscular system. Arms are usually more affected than legs. Some of the cases are due to mitochondrial...
+
+Generated Question:
+Which of the following is commonly observed in patients with Dyssynergia Cerebellaris Myoclonica?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 3 ===
+Context Snippet:
+OUT_OF_DOMAIN...
+
+Generated Question:
+What is the capital of France?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 4 ===
+Context Snippet:
+OUT_OF_DOMAIN...
+
+Generated Question:
+Who won the 2024 Super Bowl?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 5 ===
+Context Snippet:
+OUT_OF_DOMAIN...
+
+Generated Question:
+Who was Asclepius?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 6 ===
+Context Snippet:
+OUT_OF_DOMAIN...
+
+Generated Question:
+who are you?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 7 ===
+Context Snippet:
+OUT_OF_DOMAIN...
+
+Generated Question:
+How do I bake a chocolate cake?
+
+Validation: YES (Automatically Filtered)
+==================================================
+

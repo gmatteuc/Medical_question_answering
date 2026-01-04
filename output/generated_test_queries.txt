@@ -1,0 +1,291 @@
+**Question:**  The text states that "Sensorineural hearing impairment" is present in 90% of individuals with Corneal dystrophy.  What is the potential link between this hearing impairment and the presence of corneal dystrophy, as described in the text? 
+
+
+**Explanation:** This
+What is the estimated prevalence of Spondyloepiphyseal dysplasia congenita, considering the reported cases in scientific literature and the fact that most cases are due to new mutations?
+**Question:**  The text states that vancomycin is effective against *some* drug-resistant infections.  What is the recommended treatment for vancomycin-resistant enterococci, and what is the rationale for this treatment choice, based on the provided information? 
+
+
+**Explanation:**
+What is the estimated prevalence of a UTI in adults under 30 years old, according to the text?
+**Question:**  The text states that GLUT1 deficiency syndrome is often associated with a specific type of metabolic acidosis.  What is the estimated prevalence of this metabolic acidosis in individuals diagnosed with GLUT1 deficiency syndrome, and what are the potential implications for treatment decisions? 
+
+
+**Explanation:**
+
+* **
+**Question:**  The text states that focal dermal hypoplasia is X-linked dominant.  What is the theoretical risk of a woman with focal dermal hypoplasia passing the mutation to each of her offspring, considering the potential for germline mosaicism? 
+
+
+**Explanation:** This question targets
+**Question:**  The text states that blood transfusions can help maintain blood cell counts. What is the estimated minimum number of red blood cells required to prevent severe anemia in a patient with aplastic anemia, according to the text? 
+
+
+**Explanation:** This question targets a specific, practical detail about
+**Question:**  The text states that Catamenial pneumothorax is associated with dysmenorrhea.  What is the approximate percentage of patients with Catamenial pneumothorax who also experience dysmenorrhea, according to the Human Phenotype Ontology? 
+
+
+**Explanation:** This question targets a specific,
+**Question:**  The text states that the prognosis for Childhood Brain and Spinal Cord Tumors is influenced by factors like the presence of cancer cells after surgery and the tumor's location.  What percentage of children with Childhood Brain and Spinal Cord Tumors are likely to have cancer cells remaining after surgery, and how
+What is the estimated percentage of patients with CBF-AML who develop the disease before the age of 5, according to the text?
+**Question:**  The text states that medullary sponge kidney is present at birth.  What is the estimated prevalence of medullary sponge kidney in newborns, and what factors might contribute to its non-heritable nature? 
+
+
+**Explanation:**
+
+* **Specificity:**  The question focuses on the
+**Question:**  The text states that "more than 60 million people in the United States may be infected with the Toxoplasma parasite."  What is the estimated prevalence of Toxoplasmosis infection in pregnant women in the United States, and how does this prevalence compare to the overall prevalence of infection
+What is the approximate percentage of individuals with Camptodactyly taurinuria who exhibit knee dislocation, according to the Human Phenotype Ontology (HPO), and what is the relationship between this percentage and the condition's autosomal dominant inheritance pattern?
+**Question:**  The text states that bradyopsia affects vision in a way that can lead to "several seconds" of blindness when transitioning from a dark environment to a bright one.  What is the estimated percentage of individuals with bradyopsia who experience this phenomenon? 
+
+
+**Explanation:** This
+**Question:**  The text states that the only described CHHF patient died 14 days after symptom onset. What is the potential link between the incubation period of CHHF and the patient's death, considering the known symptoms and the potential for fetal infection? 
+
+
+**Explanation:** This question
+**Question:**  The text states that people with HIV have longer, healthier lives thanks to effective medications.  What is the estimated percentage of people with HIV who are expected to live for at least 10 years after diagnosis, according to the information provided? 
+
+
+**Explanation:** This question targets
+What is the estimated prevalence of congenital hydrocephalus, and how does this compare to the prevalence of acquired hydrocephalus?
+**Question:**  The text states that TK2-related mitochondrial DNA depletion syndrome is inherited in an autosomal recessive pattern.  What is the likelihood of a parent of an affected child having the condition if they are heterozygous for the mutation? 
+
+
+**Explanation:** This question targets the specific information
+**Question:**  The text states that the exact cause of Castleman disease is unknown.  What is the prevalence of Castleman disease in individuals with a family history of the condition? 
+ 
+**Explanation:** This question targets a specific detail about the disease's etiology. It requires the
+**Question:**  The text states that Danon disease is X-linked dominant.  What is the likelihood of a female inheriting Danon disease from a father who carries the mutation, compared to the likelihood of a male inheriting the disease? 
+
+
+**Explanation:** This question targets the specific
+**Question:**  The text states that Limb-girdle muscular dystrophy type 1A presents with "late-onset distal muscle weakness."  What is the approximate age at onset of this weakness, and how does this age relate to the presence of "slow progression" of the disease?
+**Question:**  The text states that individuals with Ehlers-Danlos syndrome progeroid type have "sparse scalp hair and eyebrows."  What is the estimated prevalence of this specific symptom combination in individuals with the progeroid type of Ehlers-Danlos syndrome compared to other Ehlers-
+What is the estimated prevalence of xeroderma pigmentosum in the general population of Japan, compared to the prevalence in the United States and Europe?
+**Question:**  The text states that there is no cure for Neuroaxonal dystrophy (INAD).  What are the potential contraindications for using medications for pain relief and sedation in a child with INAD, considering the potential for adverse effects and the lack of a cure?
+**Question:**  The text states that this form of sideroblastic anemia is pyridoxine-refractory.  What does this mean in terms of the patient's response to treatment with pyridoxine supplementation? 
+
+
+**Answer:** This question tests the doctor's understanding
+**Question:**  The text states that aphasia is most common in adults who have had a stroke.  What percentage of individuals with aphasia are estimated to have experienced a stroke as the cause? 
+
+
+**Explanation:** This question targets a specific, high-level detail about the prevalence of aph
+What is the prevalence of fever in patients diagnosed with a urachal cyst, and what factors might contribute to its presence in the context of this condition?
+**Question:**  The text states that enzyme replacement therapy (ERT) is being tested for other MPS disorders.  What specific MPS disorder(s) are mentioned in the text as being potentially eligible for ERT? 
+
+
+**Explanation:** This question targets a specific detail about the text's focus
+**Question:**  The text states that 21-hydroxylase deficiency results in the accumulation of androgens in the adrenal glands.  What is the estimated percentage of individuals with 21-hydroxylase deficiency who present with adrenal insufficiency symptoms? 
+
+
+**Explanation:** This question targets a specific
+**Question:**  The text states that Friedreich ataxia is caused by mutations in the FXN gene.  What is the relationship between the length of the GAA trinucleotide repeat in the FXN gene and the age at which symptoms of Friedreich ataxia typically appear? 
+
+
+**Explanation:**
+**Question:**  The text states that dystrophic epidermolysis bullosa is estimated to affect 6.5 per million newborns in the US.  What is the estimated prevalence of the severe, autosomal recessive forms of the disorder among newborns in the US? 
+
+
+**Explanation:** This question
+What is the estimated percentage of Small Cell Lung Cancer cases that present with distant metastasis at diagnosis, and what are the implications for treatment strategies?
+What is the estimated prevalence of acute bronchitis in the general population, and what factors contribute to a higher risk of developing it?
+**Question:**  The text states that "problems in the inner ear... can be caused by problems in the labyrinth."  What is the estimated prevalence of labyrinthitis, specifically in individuals over 65 years old, compared to the general population? 
+ 
+**Explanation:** This question targets
+**Question:**  The text states that a mother's exposure to viruses or toxic chemicals during pregnancy may play a part in the development of a mental disorder.  What is the estimated prevalence of a mental disorder in children born to mothers exposed to such substances, compared to children born to mothers without such
+**Question:**  The text states that SUNCT headaches are most common in men after age 50.  What is the estimated prevalence of SUNCT headaches in this age group compared to the general population? 
+
+
+**Explanation:** This question targets a specific detail about the age distribution of SUNCT
+**Question:**  The text states that Essential Tremor can be progressive, starting on one side of the body and eventually affecting both.  What is the estimated percentage of Essential Tremor cases that exhibit this progressive pattern? 
+ 
+**Explanation:** This question targets a specific detail about the progression
+What is the estimated prevalence of 8p11 myeloproliferative syndrome in the general population, and how does this compare to the prevalence of other myeloproliferative syndromes?
+**Question:**  The text states that 3-methylglutaconyl-CoA hydratase deficiency can lead to metabolic acidosis.  What is the recommended initial treatment approach for this condition, based on the text, and what are the potential contraindications to this approach? 
+
+
+**Explanation
+**Question:**  The text states that infants with the early infantile form of Galactosialidosis are diagnosed between birth and 3 months of age. What is the estimated prevalence of this form of the disease in the general population? 
+
+
+**Explanation:** This question targets a specific detail about the early
+**Question:**  The text states that Unverricht-Lundborg disease is autosomal recessive.  What are the potential implications of this inheritance pattern for the genetic testing and counseling of individuals suspected of having this condition? 
+
+
+**Explanation:** This question focuses on the specific genetic information about the disease
+**Question:**  The text states that maintaining a healthy weight and avoiding smoking can prevent the recurrence of direct inguinal hernias.  What is the estimated percentage reduction in the risk of direct inguinal hernia recurrence after implementing these measures, according to the provided text? 
+
+
+**Explanation:** This question
+**Question:**  The text states that glycogen storage disease type VII is often associated with a specific type of enzyme deficiency.  What is the relationship between this deficiency and the potential for liver dysfunction, as described in the text? 
+ 
+**Explanation:** This question targets a specific, rare aspect
+What is the estimated prevalence of 3-hydroxyisobutyric aciduria, and how does this rarity inform the selection of treatment options?
+What is the relationship between the presence of a cleft lip and a cleft palate in individuals with trisomy 13, as described in the text?
+Question:  The text states that early treatment of MMN with IVIG is recommended. What is the estimated time frame for a patient to experience a significant improvement in weakness after receiving IVIG treatment? 
+
+
+**Explanation:**
+
+This question focuses on a specific detail: the timeframe for improvement after IV
+**Question:**  The text states that childhood vaccines have prevented "countless cases of disease and saved millions of lives."  What is the estimated percentage reduction in the incidence of measles, a disease that was once highly prevalent, due to widespread vaccination programs? 
+
+
+**Explanation:** This question targets a
+**Question:**  The text states that untreated tabes dorsalis can lead to paralysis, dementia, and blindness.  What is the estimated prevalence of these complications in individuals diagnosed with tabes dorsalis, considering the text's emphasis on the irreversible nature of nerve damage?
+**Question:**  The text states that nephrocalcinosis is relatively rare (5%) and is often associated with primary hyperparathyroidism.  What is the estimated prevalence of primary hyperparathyroidism in the elderly population, and how does this prevalence relate to the likelihood of developing nephrocalcin
+**Question:**  The text states that Lesch-Nyhan syndrome is characterized by neurological and behavioral abnormalities.  What is the estimated prevalence of Lesch-Nyhan syndrome in males, and what are the potential implications for the management of this condition? 
+
+
+**Explanation:**
+
+This question targets
+**Question:**  The text states that Rhabdomyosarcoma alveolar has an autosomal recessive inheritance pattern.  What is the estimated percentage of patients with this subtype who will present with a specific combination of symptoms, as described in the Human Phenotype Ontology (HPO)? 
+
+
+**Explanation:**
+**Question:**  The text states that SYNGAP1-related intellectual disability is classified as autosomal dominant.  What is the estimated prevalence of this condition in the general population, considering the information provided about inheritance patterns? 
+ 
+**Explanation:** This question targets the specific information about the
+**Question:**  The text states that BPP is not curable.  What are the potential benefits of early intervention therapies, such as speech therapy, for individuals with BPP, considering the potential impact on cognitive development and language skills? 
+
+
+**Explanation:** This question focuses on:
+
+*
+**Question:**  The text states that certain foods can contribute to the formation of kidney stones.  What specific dietary changes, beyond simply drinking enough fluids, are recommended to help prevent kidney stone formation in individuals with a family history of the condition? 
+
+
+**Explanation:** This question targets the specific dietary
+**Question:**  The text mentions that high doses of vitamin A, alone or combined with vitamin E, have shown some improvement in symptoms.  What is the recommended dosage range for vitamin A supplementation in the treatment of Kyrle disease, and what potential risks are associated with this approach? 
+
+
+**
+**Question:**  The text states that Lafora progressive myoclonus epilepsy is inherited in an autosomal recessive pattern.  What is the likelihood that a child born to two unaffected parents will inherit this condition? 
+
+
+**Explanation:** This question targets the specific information about the inheritance pattern and the fact
+**Question:**  The text states that the Human Phenotype Ontology (HPO) lists the signs and symptoms of Abdominal Aortic Aneurysm.  What is the approximate percentage of patients with Abdominal Aortic Aneurysm who present with a palpable pulsatile abdominal mass, according to the HPO
+What is the estimated prevalence of Duchenne muscular dystrophy (DMD) in males under 18 years old, according to the NINDS, and how does this prevalence compare to the estimated prevalence of Becker muscular dystrophy (BMD) in the same age group?
+**Question:**  The text states that Stve-Wiedemann syndrome is associated with a specific genetic mutation.  What is the percentage of individuals with this mutation who experience a significant reduction in lung function compared to the general population? 
+ 
+**Explanation:** This question targets a specific, rare
+**Question:**  The text states that NASH is most often found in individuals who are middle-aged and overweight or obese.  What is the estimated prevalence of NASH in individuals aged 40-60 years old, considering the text's mention of the prevalence of NASH in relation to obesity
+**Question:**  The text states that mutations in the MLH1, MSH2, MSH6, and PMS2 genes are involved in DNA repair.  What is the estimated percentage of individuals with Lynch syndrome who have mutations in these genes? 
+
+
+**Explanation:** This question targets a
+**Question:**  The text states that NSAIDs may be used to relieve symptoms of fever in patients with TRAPS.  What is the estimated percentage of patients who experience a reduction in fever frequency after using NSAIDs? 
+
+
+**Explanation:** This question targets a specific, actionable piece of information from
+**Question:**  The text states that 50% of individuals with Hereditary Multiple Osteochondromas exhibit abnormalities in their metaphyses.  What is the relationship between this prevalence and the potential for complications like osteoarthritis or joint instability? 
+
+
+**Explanation:** This question targets a specific detail about
+**Question:**  The text states that 90% of individuals with Burn-Mckeown syndrome exhibit blepharophimosis.  What is the potential impact of this finding on the clinical management of this condition, considering the prevalence of this symptom? 
+
+
+**Explanation:** This question focuses on
+**Question:**  The text states that Malonyl-CoA decarboxylase deficiency is associated with a high prevalence of "cognitive impairment" (90%).  What is the potential link between this cognitive impairment and the presence of "hypoglycemia" (50%) in individuals with this condition?
+What is the estimated prevalence of Mucopolysaccharidosis type IV (MPS IV) in the general population, and how does this compare to the prevalence of other MPS types?
+**Question:**  The text states that older adults respond to treatment as well as younger people.  What specific evidence or studies are cited to support this claim, and how does this finding relate to the potential benefits of treatment programs specifically designed for older adults?
+What is the estimated prevalence of Buschke-Ollendorff syndrome, and how does this compare to the prevalence of other rare neurodegenerative disorders, according to the available genetic testing data?
+**Question:**  The text states that researchers are studying treatments aimed at the immune system for sarcoidosis.  What specific immune system component is being targeted in these studies, and what is the rationale behind this approach? 
+
+
+**Explanation:** This question focuses on a specific aspect of the text (research
+**Question:**  The text states that some individuals with severe and progressive muscle weakness may develop respiratory failure or pneumonia.  What percentage of patients with polymyositis are likely to develop these complications, and what factors might contribute to this risk? 
+
+
+**Explanation:** This question targets a specific,
+**Question:**  The text states that the majority of Floating-Harbor syndrome cases present with a specific combination of symptoms. What percentage of patients with Floating-Harbor syndrome exhibit the combination of symptoms described in the "Bone Age Study" and how does this percentage relate to the prevalence of the syndrome?
+**Question:**  The text mentions that the Siderius X-linked mental retardation syndrome is associated with a specific set of symptoms.  What are the percentages of individuals with this syndrome who present with a combination of cleft lip, cleft palate, and intellectual disability, according to the text? 
+
+
+**
+What is the approximate percentage of patients with Factor XI deficiency who exhibit abnormal bleeding, and what is the relationship between this percentage and the inheritance pattern of the condition (autosomal dominant, autosomal recessive)?
+What is the estimated percentage of patients who experience significant pain during the procedure for severe varicose veins, and what factors might influence this percentage?
+What is the approximate percentage of individuals with Usher syndrome, type 2C, who also exhibit rod-cone dystrophy, according to the Human Phenotype Ontology (HPO) database?
+What is the estimated 5-year survival rate for patients with metastatic squamous neck cancer with occult primary who undergo surgery and radiation therapy, according to the text?
+**Question:**  The text states that a biopsy is recommended before treatment for Wilms tumor in cases where the tumor is **larger than 5 cm**.  What is the potential impact of this recommendation on the patient's prognosis, considering the potential for early metastasis? 
+ 
+**Explanation
+**Question:**  The text states that Hermansky-Pudlak syndrome is associated with mutations in at least nine genes.  What is the relationship between the mutations in genes involved in the same protein complex and the clinical presentation of Hermansky-Pudlak syndrome? 
+
+
+**Answer:**  This question
+**Question:**  The text states that familial atrial fibrillation is inherited in an autosomal dominant pattern.  What is the estimated prevalence of familial atrial fibrillation in the general population, compared to the prevalence of sporadic atrial fibrillation? 
+ 
+**Explanation:** This question targets a specific detail about the inheritance
+**Question:**  The text states that a shunt is used to manage excess fluid in the brain. What is the estimated percentage of childhood astrocytoma patients who would benefit from a shunt, based on the text? 
+
+
+**Explanation:** This question targets a specific, high-level detail about the
+**Question:**  The text states that mutations in the SPG11 gene are associated with spastic paraplegia type 11.  What is the estimated prevalence of spastic paraplegia type 11 compared to other forms of spastic paraplegia? 
+
+
+**Explanation
+**Question:**  The text states that "phosphoglycerate kinase deficiency is a rare disorder."  What is the estimated prevalence of phosphoglycerate kinase deficiency in the general population, and how does this compare to the prevalence of other rare metabolic disorders? 
+
+
+**Explanation:** This question targets the rarity
+**Question:**  The text states that Fanconi Anemia is associated with a "defect in the lower part of the wall that separates the hearts left and right chambers."  What is the potential impact of this defect on the patient's overall health and reproductive capacity? 
+
+
+**Explanation:** This question
+**Question:**  The text states that a family health history can be used to identify potential genetic predispositions to certain conditions.  What specific percentage of individuals with a family history of heart disease are likely to develop it, according to the text? 
+
+
+**Explanation:** This question targets a specific,
+What is the estimated prevalence of conjunctivitis in children under 5 years old, and how does this compare to the prevalence of stye in adults?
+**Question:**  The text states that mutations in the EDA, EDAR, and EDARADD genes are responsible for hypohidrotic ectodermal dysplasia.  What is the estimated percentage of individuals with hypohidrotic ectodermal dysplasia who exhibit a mutation in the EDARADD gene? 
+
+
+**
+**Question:**  The text states that "Gum disease is caused by..."  What specific factors, beyond just plaque buildup, are listed as contributing to the development of periodontal disease, and how do these factors relate to the prevalence of the disease in individuals with certain conditions? 
+
+
+**Explanation:**
+What is the estimated prevalence of glucose-6-phosphate dehydrogenase deficiency in males, and how does this prevalence differ from females?
+What is the estimated prevalence of acromegaly in the general population, and how does this compare to the estimated prevalence of other pituitary tumors?
+What is the estimated prevalence of gastrointestinal stromal tumor (GIST) in individuals under the age of 40, and how does this compare to the prevalence in individuals aged 40 and above?
+What is the estimated prevalence of suicidal ideation in individuals with a confirmed diagnosis of major depressive disorder, according to the National Institute of Mental Health (NIMH) guidelines?
+**Question:**  The text states that PLOSL is associated with a specific genetic mutation.  What is the prevalence of this mutation in individuals diagnosed with PLOSL, and what are the implications for treatment options? 
+
+
+**Explanation:**
+
+This question targets a specific, rare condition (PLOSL)
+**Question:**  The text states that Saccharopinuria is an autosomal recessive condition.  What is the approximate percentage of patients with Saccharopinuria who exhibit intellectual disability, and how does this percentage relate to the prevalence of other associated symptoms like histidinuria and hyperlysinuria?
+**Question:**  The text states that "most foods that contain carbohydrates can cause gas."  What is the likely relationship between the type of bacteria present in the intestines and the individual's ability to digest carbohydrates, as it relates to the production of gas? 
+
+
+**Explanation:** This question targets
+**Question:**  The text states that FG syndrome is associated with a specific genetic mutation.  What is the estimated prevalence of this mutation in individuals with FG syndrome, and how does this prevalence compare to the prevalence of similar mutations in the general population? 
+
+
+**Explanation:**
+
+* **Specificity:**
+What is the estimated prevalence of pelvic pain in women aged 30-40 years, according to the National Institute of Child Health and Human Development (NICHD), and how does this prevalence relate to the likelihood of experiencing pain during sexual intercourse?
+**Question:**  The text states that Ectrodactyly cleft palate syndrome is autosomal dominant.  What is the approximate percentage of affected individuals who exhibit split hands in this condition, according to the Human Phenotype Ontology (HPO)? 
+
+
+**Explanation:** This question targets a specific,
+**Question:**  The text states that CCHS patients typically require mechanical ventilation 24 hours a day.  What is the estimated percentage of CCHS patients who require this level of continuous support? 
+
+
+**Explanation:** This question targets a specific detail about the severity of CCHS and its impact
+**Question:**  The text states that X-linked creatine deficiency primarily affects the brain.  What percentage of individuals with this condition are estimated to experience significant cognitive impairment? 
+
+
+**Explanation:** This question targets a specific, rare, and potentially challenging aspect of the condition. It requires the doctor to
+What is the estimated prevalence of North American Indian childhood cirrhosis in the general population of children under 10 years old, and how does this prevalence compare to the prevalence of other rare liver disorders in this age group?
+What is the capital of France?
+Who won the 2024 Super Bowl?
+Who was Asclepius?
+who are you?
+How do I bake a chocolate cake?

@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+.venv
+*.egg-info/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# OS Generated
+.DS_Store
+Thumbs.db
+
+# Project Data & Artifacts
+data/*.csv
+data/*.parquet
+data/*.bin
+data/*.pkl
+data/*.index
+
+# Keep documentation in data
+!data/*.md
+
+# Generated Outputs
+# Uncomment the following line if you do NOT want to commit evaluation results
+# output/
+
+# Large generated files in output (if any)
+output/*.bin
+output/*.pkl

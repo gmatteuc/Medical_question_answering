@@ -1,0 +1,90 @@
+--- Running 5 Test Cases ---
+
+Test 1 [Acronyms (LCM)]: What are the symptoms of LCM?
+Answer: The provided text describes the symptoms of LCM as follows:
+
+* **During the first phase (biphasic febrile illness):**
+    * Fever
+    * Malaise
+    * Lack of appetite
+    * Muscle aches
+    * Headache
+    * Nausea and vomiting
+* **Later phases (after the initial phase):**
+    * Meningitis (fever, headache, stiff neck, etc.)
+    * Encephalitis (drowsiness, confusion, sensory disturbances, etc.)
+    * Myelitis (inflammation of the spinal cord)
+    * Acute hydrocephalus (increased fluid on the brain)
+    * Nerve deafness and arthritis
+
+**Important Notes:**
+
+* The symptoms of LCM can vary in severity and presentation.
+* Some individuals may experience no symptoms, while others may have severe symptoms.
+* LCM can be a serious condition, but most patients do not die from it. 
+
+
+Let me know if you have any other questions.
+
+Top Sources:
+   1. [Dist: 0.74] Question: What are the symptoms of Lymphocytic Choriomeningitis (LCM) ?
+Answer: LCMV is most commonly recognized as caus...
+   2. [Dist: 0.81] Question: What are the symptoms of Langerhans Cell Histiocytosis ?
+Answer: and spinal cord) may include: - Loss of balan...
+   3. [Dist: 0.84] Question: How to diagnose Lymphocytic Choriomeningitis (LCM) ?
+Answer: During the first phase of the disease, the most c...
+
+------------------------------------------------------------
+
+Test 2 [Full Name]: How do humans typically get Lymphocytic Choriomeningitis?
+Answer: Humans typically get Lymphocytic Choriomeningitis from contact with the urine, feces, saliva, or blood of wild mice.
+
+Top Sources:
+   1. [Dist: 0.63] Question: What are the treatments for Lymphocytic Choriomeningitis (LCM) ?
+Answer: Aseptic meningitis, encephalitis, or ...
+   2. [Dist: 0.67] Question: How to diagnose Lymphocytic Choriomeningitis (LCM) ?
+Answer: During the first phase of the disease, the most c...
+   3. [Dist: 0.70] Question: Who is at risk for Lymphocytic Choriomeningitis (LCM)? ?
+Answer: Individuals of all ages who come into contact...
+
+------------------------------------------------------------
+
+Test 3 [Other Disease]: What is LCHAD deficiency?
+Answer: LCHAD deficiency is a mitochondrial condition that prevents the body from converting certain fats to energy, particularly during periods without food (fasting).
+
+Top Sources:
+   1. [Dist: 0.34] Question: What is (are) LCHAD deficiency ?
+Answer: LCHAD deficiency, or long-chain 3-hydroxyacyl-CoA dehydrogenase defic...
+   2. [Dist: 0.56] Question: What is (are) long-chain 3-hydroxyacyl-CoA dehydrogenase deficiency ?
+Answer: Long-chain 3-hydroxyacyl-CoA deh...
+   3. [Dist: 0.74] Question: What are the symptoms of LCHAD deficiency ?
+Answer: What are the signs and symptoms of LCHAD deficiency? The H...
+
+------------------------------------------------------------
+
+Test 4 [Specific Fact]: How is LCM diagnosed?
+Answer: During the first phase of the disease, the most common laboratory abnormalities are a low white blood cell count (leukopenia) and a low platelet count (thrombocytopenia). Liver enzymes in the serum may also be mildly elevated. After the onset of neurological disease during the second phase, an increase in protein levels, an increase in the number of white blood cells or a decrease in the glucose levels in the cerebrospinal fluid (CSF) is usually found.
+
+Top Sources:
+   1. [Dist: 0.77] Question: How to diagnose Lymphocytic Choriomeningitis (LCM) ?
+Answer: During the first phase of the disease, the most c...
+   2. [Dist: 0.91] Question: What are the symptoms of LCHAD deficiency ?
+Answer: What are the signs and symptoms of LCHAD deficiency? The H...
+   3. [Dist: 0.95] Question: How to diagnose Multicentric Castleman Disease ?
+Answer: How is multicentric Castleman disease diagnosed? The ...
+
+------------------------------------------------------------
+
+Test 5 [Out of Domain]: What is the capital of Mars?
+Answer: I don't know. (Confidence too low: 1.59 > 0.8)
+
+Top Sources:
+   1. [Dist: 1.59] Question: What is (are) head and neck squamous cell carcinoma ?
+Answer: Squamous cell carcinoma is a cancer that arises ...
+   2. [Dist: 1.61] Question: What are the symptoms of Juberg Marsidi syndrome ?
+Answer: What are the signs and symptoms of Juberg Marsidi s...
+   3. [Dist: 1.63] Question: What is (are) Pulmonary alveolar microlithiasis ?
+Answer: Pulmonary alveolar microlithiasis is a disorder in w...
+
+------------------------------------------------------------
+

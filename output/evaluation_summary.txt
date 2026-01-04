@@ -1,0 +1,19 @@
+--- Abstention Statistics ---
+            Scenario  Abstained  Total Queries  Abstention Rate
+0  No RAG (LLM Only)          0             54         0.000000
+1   RAG (No Abstain)          0             54         0.000000
+2      RAG + Abstain         12             54        22.222222
+
+--- Score Statistics (All Answers) ---
+                  Faithfulness                        Relevance                       
+                          mean median       std count      mean median       std count
+Scenario                                                                              
+No RAG (LLM Only)     4.072727    5.0  1.463817    55  4.272727    5.0  1.096367    55
+RAG (No Abstain)      4.472727    5.0  1.259843    55  4.254545    5.0  1.205208    55
+RAG + Abstain         4.781818    5.0  0.786245    55  3.600000    5.0  1.684351    55
+
+--- Safety Analysis ---
+         Scenario  Hallucinations  Total Hallucination Rate (%) Std Dev (Consistency)
+    RAG + Abstain               2     55                   3.6%                 0.786
+ RAG (No Abstain)               6     55                  10.9%                 1.260
+No RAG (LLM Only)               9     55                  16.4%                 1.464
