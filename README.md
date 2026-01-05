@@ -19,12 +19,10 @@ Created by Giulio Matteucci in 2025 as a Generative AI portfolio project.
 ## Dataset
 The dataset used is the **Comprehensive Medical Q&A Dataset**.
 - **Source**: Kaggle (derived from trusted medical repositories).
-- **Structure**: The raw data consists of medical questions and their expert-verified answers.
+- **Structure**: The raw data is a structured corpus containing various types of medical information categorized by `qtype` (e.g., *Symptoms*, *Treatments*, *Susceptibility*, *Exams and Tests*), rather than just simple Q&A pairs.
+- **Synthetic Query Generation**: To rigorously test the RAG system, we implemented a **Synthetic Data Generation Pipeline**. Instead of relying solely on pre-existing questions, we used the LLM to generate complex, natural-language questions based on specific context chunks.
+  - **Validation**: Each generated question is validated to ensure it is strictly answerable from the source text, creating a high-quality dataset for evaluation.
 - **Processing**: The text was processed into **512-token chunks** with overlap to preserve context, resulting in a Knowledge Base of thousands of retrievable vectors.
-- **Key Features**:
-  - `Question`: The medical query (e.g., "What are the symptoms of BFNS?").
-  - `Answer`: The ground truth medical explanation.
-  - `Focus`: The medical specialty or condition category.
 
 ## Methodology
 
@@ -41,7 +39,7 @@ The dataset used is the **Comprehensive Medical Q&A Dataset**.
 ### 3. Automated Evaluation (LLM-as-a-Judge)
 Instead of relying solely on lexical metrics like ROUGE, this project implements a semantic evaluation pipeline:
 - **Judge Model**: A separate LLM instance acts as an auditor.
-- **Metric - Faithfulness (1-5)**: Does the answer contain *only* information present in the retrieved context?
+- **Metric - Faithfulness (1-5)**: Does the answer contain *only* information present in the specific retrieved context chunk used to generate the question? This ensures we are measuring adherence to a strict "Ground Truth" source.
 - **Metric - Relevance (1-5)**: Does the answer directly address the user's prompt?
 
 ### 4. "Smoking Gun" Safety Analysis
@@ -53,13 +51,13 @@ Instead of relying solely on lexical metrics like ROUGE, this project implements
 - **Performance**: The system demonstrates that even small, quantized models (2B parameters) can achieve high reliability when grounded in a solid retrieval framework.
 
 <p align="center">
-  <img src="misc/comparative_gains_example.png" width="80%">
+  <img src="misc/hallucination_rates_bar_example.png" width="80%">
 </p>
 <p align="center">
   <img src="misc/faithfulness_distribution_stacked_example.png" width="80%">
 </p>
 
-*Figure: (Top) Comparison of Faithfulness scores between Baseline and RAG. (Bottom) Distribution of Faithfulness scores showing the shift towards higher reliability.*
+*Figure: (Top) Comparison of Hallucination Rates between Baseline and RAG. (Bottom) Distribution of Faithfulness scores showing the shift towards higher reliability.*
 
 ## 💻 Project Structure
 ```
