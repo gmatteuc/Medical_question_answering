@@ -48,7 +48,152 @@
 48. What were the reported differences between the STN DBS group and the GPI DBS group on a test of visuomotor processing speed, and on a standard assessment of depression?
 49. What are the recommended positions for bike riders as a way to minimize pressure on the perineum?
 50. What type of seizure is most commonly associated with BFNS, and how does it typically present?
-51. What is the capital of France?
-52. Who won the 2024 Super Bowl?
-53. Who was Asclepius?
-54. How do I bake a chocolate cake?
+51. What are the primary methods of diagnosis for Donnai-Barrow syndrome, according to MedlinePlus?
+52. What are the most common signs and symptoms of Menetrier disease, according to the text?
+53. What are the approximate percentages of patients with Beukes familial hip dysplasia who exhibit abnormal bone mineral density, osteoarthritis, kyphosis, and scoliosis?
+54. What are some potential complications associated with schizencephaly?
+55. What are the most common abdominal wall defects associated with Beckwith-Wiedemann syndrome?
+56. What is the advantage of using MRI over CT for determining the presence of ischemic stroke, particularly for smaller strokes and transient ischemic attacks (TIAs)?
+57. What are the primary treatment options for pars planitis?
+58. What are some potential causes of POTS, according to current medical understanding?
+59. What percentage of people with Peptidic growth factors deficiency exhibit a convex nasal ridge?
+60. What are the common causes of death associated with idiopathic pulmonary fibrosis (IPF)?
+61. What is the role of the proteins produced from the RHO, GNAT1, and PDE6B genes in the process of vision?
+62. Which of the following types of cerebellar degeneration is associated with an autosomal dominant inheritance pattern?
+63. What is the approximate number of patients who exhibit anteverted nares in Chromosome 1q41-q42 deletion syndrome?
+64. How does the inheritance pattern of Ehlers-Danlos syndrome progeroid type differ between parents and offspring?
+65. Does autoimmune hemolytic anemia have an autosomal recessive pattern of inheritance?
+66. What are the risk factors for developing lung cancer, according to the text?
+67. What are the recommended treatment options for a chondrosarcoma in someone with Hereditary Multiple Osteochondromas (HMO)?
+68. What is the approximate percentage of people with joint replacement surgery who develop a prosthetic joint infection?
+69. What is the most common area on the body for Granuloma annulare to appear?
+70. What are some potential complications associated with childbirth?
+71. What are the two proteins produced from the BRCA1 and BRCA2 genes and what is their function?
+72. What are the approximate percentages of patients who exhibit abnormal blistering of the skin and ophthalmic inflammation in Ocular cicatricial pemphigoid?
+73. What are the potential consequences of frequent snoring?
+74. What is the mechanism by which stem cells are used in high-dose chemotherapy and radiation therapy with stem cell transplant?
+75. How does the inheritance pattern of small fiber neuropathy differ based on the presence of a family history of the disorder?
+76. What are the three main types of diabetes?
+77. What are the activating factors that must be present in addition to a deficiency of PBGD to cause acute intermittent porphyria?
+78. What is the mode of inheritance of Fine-Lubinsky syndrome?
+79. What are the three specific ways in which people may abuse prescription drugs?
+80. What are the conditions that may necessitate heightened caution for individuals when dealing with Toxoplasma gondii infection?
+81. What specific genetic condition is associated with mutations in the TREX1 gene, and how does it manifest in terms of vascular and neurological complications?
+82. What are the potential causes of congenital diaphragmatic hernia in the majority of individuals, identified as non-syndromic?
+83. What methods can be used to treat an infection in individuals with epidermolysis bullosa?
+84. What are the estimated percentages of patients with X-linked lymphoproliferative syndrome displaying splenomegaly and hepatomegaly?
+85. What are the possible causes of a heightened risk for developing non-Hodgkin lymphoma?
+86. What are the six types of standard treatment used for childhood brain stem glioma?
+87. What percentage of individuals with Optic atrophy 1 experience horizontal nystagmus?
+88. What percentage of individuals with 2q37 deletion syndrome have autism?
+89. What is the approximate percentage of patients with Deafness with labyrinthine aplasia microtia and microdontia (LAMM) who have an abnormality of the cranial nerves?
+90. What specific role of connexin 26 in the inner ear contributes to the conversion of sound waves to electrical nerve impulses?
+91. What is the genetic mechanism underlying the apparent autosomal dominant inheritance of a case of familial Mediterranean fever, and how does it relate to the inheritance pattern of the MEFV gene?
+92. Which of the following is listed as a symptom of Impairment of oral perception in the Human Phenotype Ontology (HPO)?
+93. What percentage of patients with Kasznica Carlson Coppedge syndrome are reported to have an abnormality of the palate?
+94. What are the standard treatment options for thymoma and thymic carcinoma?
+95. Which of the following is a common initial diagnostic approach for CPT I deficiency in newborns?
+96. What are the three main types of GM1 gangliosidosis, based on the age at which signs and symptoms first appear?
+97. What is the most common site for gangliocytoma formation in the central nervous system?
+98. What are the potential benefits of genetic testing for Stargardt disease, specifically in terms of diagnosis and family implications?
+99. What surgical options are available to restore conductive hearing loss associated with stapes fixation?
+100. What is the primary reason individuals diagnosed with type 1 diabetes require insulin injections or pumps?
+101. What percentage of patients with Metaphyseal acroscyphodysplasia have a deformed metacarpal bone?
+102. What is the minimum internal temperature recommended for cooking whole cuts of meat, as measured by a food thermometer, and what is the purpose of the resting time after cooking?
+103. What specific tests may be used to check for signs of disease in the ovaries, pelvic area, and blood?
+104. What role does the HLA-B gene play in the immune system, and how does a variation in this gene increase the risk of developing ankylosing spondylitis?
+105. What are the approximate numbers of patients with Hyperprolinemia type 2 who experience seizures?
+106. What methods are used to assess the health of muscles and the nerves controlling them in the diagnosis of cramp-fasciculation syndrome?
+107. How can a healthy eating plan help maintain blood sugar levels within a target range?
+108. What are the key features associated with triple X syndrome?
+109. What are the two main forms of stroke?
+110. What are three non-genetic causes of paroxysmal nonkinesigenic dyskinesia, as reported in the literature?
+111. What factors affect the prognosis and treatment options for colon cancer?
+112. What are the approximate percentages of people with Familial dilated cardiomyopathy who exhibit Hypertrophic Cardiomyopathy, Abnormality of neutrophils, EMG abnormality and Lipoatrophy?
+113. What dietary modifications may be recommended for individuals with kidney disease to maintain optimal kidney function?
+114. What are the two main features of Alzheimer's disease as identified by Dr. Alois Alzheimer?
+115. What is the primary mechanism by which Wilson disease causes damage to the liver, brain, and eyes?
+116. What are the primary functions of the large intestine?
+117. What are the three main causes of a solitary kidney?
+118. What is the inheritance pattern for the MED12 gene, and how does it affect the likelihood of males and females developing the condition?
+119. What is the hallmark of Rotor syndrome, and what percentage of total bilirubin is typically found in affected individuals?
+120. What are the potential benefits of physical activity for children, as stated in the text?
+121. What is the primary mechanism by which Hepatic Veno-Occlusive Disease (VOD) impacts blood flow in the liver?
+122. What is the reason why symptoms of mineral and bone disorder in adults with CKD may not appear until years after the bone changes have started?
+123. What are the potential consequences of an excessive number of platelets clumping together in the blood?
+124. What is the second leading cause of lung cancer in the United States?
+125. What aspects of ADPEAF are primarily associated with the presence of sound-related symptoms?
+126. What are the typical presenting features of neonatal progeroid syndrome?
+127. How does Farber lipogranulomatosis manifest in individuals, particularly in newborns, and what are the key features associated with it?
+128. What are some examples of hazardous chemicals that can be used in warfare?
+129. What is the primary treatment for anaplastic ganglioglioma?
+130. What are the signs and symptoms of Jensen syndrome?
+131. What two additional symptoms may accompany reactive arthritis, alongside joint inflammation?
+132. What proportion of patients with ICF syndrome exhibit cellular immunodeficiency?
+133. What are the common signs and symptoms of Rett syndrome, and which of these are most frequently linked to the MECP2 gene mutation?
+134. What are the surgical options available for treating Poland syndrome?
+135. What factors contribute to the prognosis and treatment options for cancer in the urethra?
+136. What are the approximate percentages of patients exhibiting chorea, EEG abnormality, seizures, and incoordination, and the potential presence of migraine and stereotypic behavior in relation to the condition?
+137. What are the approximate percentages of patients experiencing abnormal femur, humerus, and ulna bone morphology with Camurati-Engelmann disease?
+138. What are the primary clinical presentations associated with wet beriberi?
+139. What is the genetic inheritance pattern of moyamoya disease, according to the text?
+140. What are the primary causes of Alport syndrome, considering the genetic basis and potential mechanisms of the condition?
+141. What are some specific recommendations for a heart-healthy eating plan, as described in the text?
+142. What are the signs and symptoms of hypothermia?
+143. What are the primary roles of growth hormone in the body?
+144. What types of damage can cerebral arteriosclerosis lead to in the brain, as demonstrated by vascular dementia?
+145. What is the relationship between VLDLR-associated cerebellar hypoplasia and the ability to walk independently in childhood?
+146. What is the relationship between mutations in the SERPINA1 gene and the deficiency or absence of alpha-1 antitrypsin (AAT)?
+147. What are the risk factors listed in the text that increase the chance of developing colorectal cancer?
+148. What are the major goals of treatment for children with GAN, as per the text?
+149. What is the primary function of the macula?
+150. What are the approximate percentages of patients with Loeys-Dietz syndrome type 4 who have a bicuspid aortic valve?
+151. What are the two primary causes of Wernicke-Korsakoff syndrome?
+152. What are the common muscles most affected by polymyositis and dermatomyositis, and how might muscle weakness in these forms of the disease affect daily activities?
+153. What is the age range in which women are most commonly diagnosed with breast cancer in the United States?
+154. What are the signs of Carnitine-acylcarnitine translocase deficiency that may lead to an episode of hypoketotic hypoglycemia?
+155. What method can be used to analyze a sample of blood for the presence of mosaic trisomy 9?
+156. What percentage of individuals with Acromesomelic dysplasia Maroteaux type display abnormal form of the vertebral bodies?
+157. What is the primary goal of scatter laser treatment in diabetic retinopathy?
+158. What genetic disorders are associated with congenital anosmia and what may cause it, according to the text?
+159. What percentage of people with Muckle-Wells syndrome experience arthritic symptoms?
+160. What are the potential consequences of Hib bacteria spreading into a child's lungs or bloodstream?
+161. What is the primary mode of transmission for nocardiosis, and what are the two main ways people contract the disease?
+162. In the context of Singleton Merten syndrome diagnosis, what specific findings associated with muscle weakness, muscle atrophy, and skeletal changes suggest the presence of the syndrome?
+163. What are the typical developmental milestones that are significantly delayed in individuals with fucosidosis?
+164. What are the factors, aside from PBGD deficiency, that can trigger an AIP diagnosis?
+165. What are the benefits of childhood vaccination in terms of disease prevention and the protection of vulnerable individuals in a community?
+166. What are the two main types of cholesterol measured by a lipoprotein panel, and how are they classified?
+167. What are the possible signs of Orofaciodigital syndrome type 2, according to the Human Phenotype Ontology?
+168. What role does the PABPN1 protein play in cells, and how does its function relate to the development of oculopharyngeal muscular dystrophy?
+169. What types of surgical procedures are used to remove pituitary tumors?
+170. How does the inheritance pattern of 3-hydroxyisobutyric aciduria relate to the presence or absence of symptoms in carriers?
+171. What are the specialized blood tests that may be ordered to confirm a diagnosis of multiple myeloma?
+172. What are some common treatments recommended for infants and children diagnosed with 47 XXX syndrome?
+173. How does the use of tobacco, in combination with alcohol use, increase the risk of oral cavity and oropharyngeal cancer?
+174. What is the approximate percentage of people with Mucopolysaccharidosis type IIIC who have cognitive impairment?
+175. What are the common skin features associated with Bloom syndrome that are not related to the rashes?
+176. What are the common symptoms associated with a cataract, and how might they be related to a change in a person's vision prescription?
+177. What are the approximate percentages of patients with Meleda disease exhibiting the following signs and symptoms:  lichenification, palmoplantar keratoderma, abnormaility of the palate, and finger syndactyly?
+178. What dietary sources of folic acid are recommended for women who may become pregnant to prevent birth defects?
+179. What insecticide-treated clothing should be worn to decrease the risk of sand fly bites?
+180. What are the potential risks of human infection with bird flu, and how can such infections be managed?
+181. What is the primary cellular function of the myophosphorylase enzyme, and where is it located?
+182. What are the two main types of African Trypanosomiasis, and what factors influence the chosen treatment for each type?
+183. What are the possible signs and symptoms of Rheumatic fever that may indicate a need for further investigation, according to the Human Phenotype Ontology (HPO)?
+184. What are the possible symptoms of deep vein thrombosis (DVT)?
+185. What are the approximate percentages of patients presenting with abnormal facial shape, and with frequent episodes of apneic episodes precipitated by illness, fatigue, or stress in the context of Pyruvate decarboxylase deficiency?
+186. What are the stages of ovarian epithelial, fallopian tube, and primary peritoneal cancers distinguished by?
+187. What are the approximate percentages of patients who exhibit abnormal cortical bone morphology, and how often does the abnormality of the metaphyses occur in people with Patterson pseudoleprechaunism syndrome?
+188. What are the signs and symptoms of Apparent mineralocorticoid excess, as defined by the Human Phenotype Ontology?
+189. What are the possible risk factors for developing acute lymphoblastic leukemia (ALL)?
+190. How do mutations in the PEX7, GNPAT, and AGPS genes affect the production of plasmalogens, and what are the implications of this for the development of rhizomelic chondrodysplasia punctata?
+191. What are the common signs and symptoms of a severe congenital heart defect in newborns?
+192. What are the signs and symptoms of Warfarin sensitivity according to the Human Phenotype Ontology?
+193. In Lennox-Gastaut syndrome, what is the primary characteristic that distinguishes it from other forms of epilepsy?
+194. What are the most common signs and symptoms of pulmonary arterial hypertension?
+195. What are the two most common types of autoimmune disorders associated with Common Variable Immune Deficiency (CVID)?
+196. What is the capital of France?
+197. Who won the 2024 Super Bowl?
+198. Who was Asclepius?
+199. How do I bake a chocolate cake?

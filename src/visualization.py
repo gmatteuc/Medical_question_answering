@@ -292,16 +292,17 @@ def plot_faithfulness_gap_distribution(results_df, save_path=None):
     plt.figure(figsize=(10, 6))
     
     # Histogram with KDE
-    sns.histplot(comparison['Gap'], kde=True, bins=15, color="#1976D2", alpha=0.6)
+    # Use a nice blue color matching the theme
+    sns.histplot(comparison['Gap'], kde=True, bins=15, color="#1976D2", alpha=0.6, edgecolor='white')
     
     # Vertical line for Mean
-    plt.axvline(mean_gap, color='#388E3C', linestyle=':', linewidth=2, label=f'Mean Gap: {mean_gap:.2f}')
+    plt.axvline(mean_gap, color='#0D47A1', linestyle='--', linewidth=2, label=f'Mean Gap: {mean_gap:.2f}')
     
     plt.title("Distribution of Faithfulness Gap (RAG - No RAG)", fontsize=14)
     plt.xlabel("Faithfulness Difference (Positive = RAG is better)", fontsize=12)
     plt.ylabel("Count", fontsize=12)
     plt.legend()
-    plt.grid(axis='y', alpha=0.3)
+    # plt.grid(axis='y', alpha=0.3) # ggplot already has grid
     
     if save_path:
         _save_plot(save_path, "faithfulness_gap_histogram.png")
@@ -334,29 +335,32 @@ def plot_hallucination_rates(results_df, save_path=None):
     
     rates_df = pd.DataFrame(rates)
     
-    plt.figure(figsize=(8, 6))
+    plt.figure(figsize=(10, 6))
     
     # Use Blue palette to maintain brand consistency
     # Lighter blue for lower risk (RAG + Abstain), Darker blue for higher risk (No RAG)
+    custom_palette = ["#90CAF9", "#42A5F5", "#0D47A1"]
+    
     ax = sns.barplot(
         data=rates_df, 
         x='Scenario', 
         y='Hallucination Rate (%)', 
         order=scenario_order,
-        palette=["#90CAF9", "#1E88E5", "#0D47A1"] 
+        palette=custom_palette
     )
     
-    plt.title("Hallucination Rate by Scenario (Lower is Better)", fontsize=14)
-    plt.ylabel("Hallucination Rate (%)", fontsize=12)
+    plt.title("Hallucination Rate by Scenario (Lower is Better)", fontsize=16, fontweight='bold', pad=20)
+    plt.ylabel("Hallucination Rate (%)", fontsize=12, fontweight='bold')
+    plt.xlabel("", fontsize=12)
     
     # Set y-limit with some headroom
-    max_rate = rates_df['Hallucination Rate (%)'].max()
+    max_rate = rates_df['Hallucination Rate (%)'].max() if not rates_df.empty else 0
     plt.ylim(0, max(5, max_rate * 1.2)) 
     plt.grid(axis='y', alpha=0.3)
     
     # Add labels on top of bars
     for i, v in enumerate(rates_df['Hallucination Rate (%)']):
-        ax.text(i, v + 0.2, f"{v:.1f}%", ha='center', va='bottom', fontweight='bold', fontsize=11)
+        ax.text(i, v + 0.2, f"{v:.1f}%", ha='center', va='bottom', fontweight='bold', fontsize=12)
         
     if save_path:
         _save_plot(save_path, "hallucination_rates_bar.png")
@@ -433,13 +437,13 @@ def plot_rouge_scores(valid_results, save_path=None):
 
     # Plotting
     plt.figure(figsize=(10, 6))
-    sns.set_style("whitegrid")
+    # Removed local style override to maintain global ggplot style
     
     # Define colors matching the Hallucination Rate plot (Light Blue, Medium Blue, Dark Blue)
     custom_palette = {
-        "RAG + Abstain": "#9ecae1",       # Light Blue
-        "RAG (No Abstain)": "#4292c6",    # Medium Blue
-        "No RAG (LLM Only)": "#08519c"    # Dark Blue
+        "RAG + Abstain": "#90CAF9",       # Light Blue (200)
+        "RAG (No Abstain)": "#42A5F5",    # Medium Blue (400)
+        "No RAG (LLM Only)": "#1565C0"    # Dark Blue (800)
     }
     
     # Bar plot with Error Bars (Standard Error)
@@ -460,13 +464,28 @@ def plot_rouge_scores(valid_results, save_path=None):
     plt.xlabel('Scenario', fontsize=12)
     
     # Improve Y-axis (Dynamic limit based on max value)
+    max_y = 0
     if not stats.empty:
-        max_val = stats['mean'].max()
-        plt.ylim(0, max_val * 1.2)
+        # Calculate max height including error bar
+        stats['upper'] = stats['mean'] + stats['sem']
+        max_y = stats['upper'].max()
+        plt.ylim(0, max_y * 1.2)
     
-    # Add labels with more padding
-    for container in ax.containers:
-        ax.bar_label(container, fmt='%.3f', padding=5)
+    # Add labels manually above error bars
+    scenarios_order = ["RAG + Abstain", "RAG (No Abstain)", "No RAG (LLM Only)"]
+    
+    for i, scenario in enumerate(scenarios_order):
+        scenario_stats = stats[stats['Scenario'] == scenario]
+        if not scenario_stats.empty:
+            mean_val = scenario_stats['mean'].values[0]
+            sem_val = scenario_stats['sem'].values[0]
+            if pd.isna(sem_val): sem_val = 0
+            
+            # Position text above the error bar
+            text_y = mean_val + sem_val
+            
+            ax.text(i, text_y, f'{mean_val:.3f}', 
+                    ha='center', va='bottom', fontweight='bold', color='black', fontsize=10)
 
     plt.tight_layout()
     
@@ -481,14 +500,17 @@ def plot_faithfulness_scores(plot_df, save_path=None):
     """
     print("\nGenerating Faithfulness Score Plot...")
 
+    # Calculate stats for label placement
+    stats = plot_df.groupby('Scenario')['Faithfulness'].agg(['mean', 'sem']).reset_index()
+
     plt.figure(figsize=(10, 6))
-    sns.set_style("whitegrid")
+    # Removed local style override to maintain global ggplot style
 
     # Custom palette (Light Blue -> Dark Blue)
     custom_palette = {
-        "RAG + Abstain": "#9ecae1",       # Light Blue
-        "RAG (No Abstain)": "#4292c6",    # Medium Blue
-        "No RAG (LLM Only)": "#08519c"    # Dark Blue
+        "RAG + Abstain": "#90CAF9",       # Light Blue (200)
+        "RAG (No Abstain)": "#42A5F5",    # Medium Blue (400)
+        "No RAG (LLM Only)": "#1565C0"    # Dark Blue (800)
     }
 
     # Bar plot with Error Bars (Standard Error)
@@ -511,9 +533,21 @@ def plot_faithfulness_scores(plot_df, save_path=None):
     # Dynamic Y-limit (Score is 1-5)
     plt.ylim(0, 5.5)
 
-    # Add labels
-    for container in ax.containers:
-        ax.bar_label(container, fmt='%.2f', padding=5)
+    # Add labels manually above error bars
+    scenarios_order = ["RAG + Abstain", "RAG (No Abstain)", "No RAG (LLM Only)"]
+    
+    for i, scenario in enumerate(scenarios_order):
+        scenario_stats = stats[stats['Scenario'] == scenario]
+        if not scenario_stats.empty:
+            mean_val = scenario_stats['mean'].values[0]
+            sem_val = scenario_stats['sem'].values[0]
+            if pd.isna(sem_val): sem_val = 0
+            
+            # Position text above the error bar
+            text_y = mean_val + sem_val
+            
+            ax.text(i, text_y, f'{mean_val:.2f}', 
+                    ha='center', va='bottom', fontweight='bold', color='black', fontsize=10)
 
     plt.tight_layout()
     
@@ -579,10 +613,10 @@ def plot_comparative_gains(results_df, save_path=None):
         return
 
     plt.figure(figsize=(10, 6))
-    sns.set_style("whitegrid")
+    # Removed local style override to maintain global ggplot style
     
     # Custom palette
-    palette = {"RAG + Abstain": "#9ecae1", "RAG (No Abstain)": "#4292c6"}
+    palette = {"RAG + Abstain": "#90CAF9", "RAG (No Abstain)": "#42A5F5"}
     
     ax = sns.barplot(
         data=metrics_df,
@@ -592,13 +626,14 @@ def plot_comparative_gains(results_df, save_path=None):
         palette=palette
     )
     
-    plt.title("RAG vs No-RAG: Comparative Improvements (Counts)", fontsize=14)
+    total_queries = len(results_df['Query'].unique())
+    plt.title(f"RAG vs No-RAG: Comparative Improvements (Total Queries: {total_queries})", fontsize=14)
     plt.ylabel("Count", fontsize=12)
     plt.xlabel("")
     
     # Add labels (integers)
     for container in ax.containers:
-        ax.bar_label(container, fmt='%d', padding=3)
+        ax.bar_label(container, fmt='%d', padding=3, fontweight='bold')
         
     plt.legend(title="Scenario", loc='upper right')
     plt.tight_layout()

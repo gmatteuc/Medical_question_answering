@@ -542,6 +542,1499 @@ Validation: YES (Automatically Filtered)
 
 === QUERY 51 ===
 Context Snippet:
+These resources address the diagnosis or management of Donnai-Barrow syndrome:  - Gene Review: Gene Review: Donnai-Barrow Syndrome  - Genetic Testing Registry: Donnai Barrow syndrome  - MedlinePlus Encyclopedia: Diaphragmatic Hernia  - MedlinePlus Encyclopedia: Hearing Loss - Infants  - MedlinePlus Encyclopedia: Omphalocele  - Nemours Foundation: Hearing Evaluation in Children   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  -...
+
+Generated Question:
+What are the primary methods of diagnosis for Donnai-Barrow syndrome, according to MedlinePlus?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 52 ===
+Context Snippet:
+What are the signs and symptoms of Menetrier disease? Although some patients with Mntrier disease may not experience symptoms, most patients have stomach pain, diarrhea, weight loss, peripheral edema, and sometimes bleeding. The Human Phenotype Ontology provides the following list of signs and symptoms for Menetrier disease. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look...
+
+Generated Question:
+What are the most common signs and symptoms of Menetrier disease, according to the text?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 53 ===
+Context Snippet:
+What are the signs and symptoms of Beukes familial hip dysplasia? The Human Phenotype Ontology provides the following list of signs and symptoms for Beukes familial hip dysplasia. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of bone mineral density...
+
+Generated Question:
+What are the approximate percentages of patients with Beukes familial hip dysplasia who exhibit abnormal bone mineral density, osteoarthritis, kyphosis, and scoliosis?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 54 ===
+Context Snippet:
+Schizencephaly is a rare congenital (present from birth) brain malformation in which abnormal slits or clefts form in the cerebral hemispheres of the brain. The signs and symptoms of this condition may include developmental delay, seizures, and problems with brain-spinal cord communication. Affected people may also have an abnormally small head (microcephaly); hydrocephalus; intellectual disability; partial or complete paralysis; and/or poor muscle tone (hypotonia). Severity of symptoms depends ...
+
+Generated Question:
+What are some potential complications associated with schizencephaly?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 55 ===
+Context Snippet:
+Beckwith-Wiedemann syndrome is a condition that affects many parts of the body. It is classified as an overgrowth syndrome, which means that affected infants are considerably larger than normal (macrosomia) and tend to be taller than their peers during childhood. Growth begins to slow by about age 8, and adults with this condition are not unusually tall. In some children with Beckwith-Wiedemann syndrome, specific parts of the body on one side or the other may grow abnormally large, leading to an...
+
+Generated Question:
+What are the most common abdominal wall defects associated with Beckwith-Wiedemann syndrome?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 56 ===
+Context Snippet:
+Another imaging technique used for stroke patients is the magnetic resonance imaging or MRI scan. MRI uses magnetic fields to detect a variety of changes in the brain and blood vessels caused by a stroke. One effect of ischemic stroke is the slowing of water movement through the injured brain tissue. An MRI can show this type of damage very soon after the stroke symptoms start. MRI and CT are equally accurate for determining when hemorrhage is present. The benefit of MRI over a CT scan is more a...
+
+Generated Question:
+What is the advantage of using MRI over CT for determining the presence of ischemic stroke, particularly for smaller strokes and transient ischemic attacks (TIAs)?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 57 ===
+Context Snippet:
+Pars planitis is a disease of the eye that is characterized by inflammation of the narrowed area (pars plana) between the colored part of the eye (iris) and the choroid. This may lead to blurred vision; dark, floating spots in the vision; and progressive vision loss. As the condition advances, cataracts, retinal detachment, or macular edema (fluid within the retina) may develop. Pars planitis most often affects young men and is generally not associated with any other disease or symptoms (idiopat...
+
+Generated Question:
+What are the primary treatment options for pars planitis?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 58 ===
+Context Snippet:
+Postural orthostatic tachycardia syndrome (POTS) is one of a group of disorders that have orthostatic intolerance (OI) as their primary symptom. OI describes a condition in which an excessively reduced volume of blood returns to the heart after an individual stands up from a lying down position. The primary symptom of OI is lightheadedness or fainting. In POTS, the lightheadedness or fainting is also accompanied by a rapid increase in heartbeat of more than 30 beats per minute, or a heart rate t...
+
+Generated Question:
+What are some potential causes of POTS, according to current medical understanding?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 59 ===
+Context Snippet:
+What are the signs and symptoms of Peptidic growth factors deficiency? The Human Phenotype Ontology provides the following list of signs and symptoms for Peptidic growth factors deficiency. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of skin pigme...
+
+Generated Question:
+What percentage of people with Peptidic growth factors deficiency exhibit a convex nasal ridge?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 60 ===
+Context Snippet:
+Pulmonary fibrosis (PULL-mun-ary fi-BRO-sis) is a disease in which tissue deep in your lungs becomes thick and stiff, or scarred, over time. The formation of scar tissue is called fibrosis.
+                
+As the lung tissue thickens, your lungs can't properly move oxygen into your bloodstream. As a result, your brain and other organs don't get the oxygen they need. (For more information, go to the "How the Lungs Work" section of this article.)
+                
+Sometimes doctors can find out wh...
+
+Generated Question:
+What are the common causes of death associated with idiopathic pulmonary fibrosis (IPF)?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 61 ===
+Context Snippet:
+Mutations in the RHO, GNAT1, or PDE6B gene cause autosomal dominant congenital stationary night blindness. The proteins produced from these genes are necessary for normal vision, particularly in low-light conditions. These proteins are found in specialized light receptor cells in the retina called rods. Rods transmit visual signals from the eye to the brain when light is dim.  The RHO gene provides instructions for making a protein called rhodopsin, which is turned on (activated) by light enteri...
+
+Generated Question:
+What is the role of the proteins produced from the RHO, GNAT1, and PDE6B genes in the process of vision?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 62 ===
+Context Snippet:
+Is cerebellar degeneration inherited? Cerebellar degeneration is associated with a variety of inherited and non-inherited conditions. One example of an inherited form of cerebellar degeneration is spinocerebellar ataxia (SCA), which refers to a group of conditions characterized by degenerative changes of the cerebellum, brain stem, and spinal cord. Depending on the type, SCA can be inherited in an autosomal dominant, autosomal recessive, or X-linked manner. Other complex conditions such as multi...
+
+Generated Question:
+Which of the following types of cerebellar degeneration is associated with an autosomal dominant inheritance pattern?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 63 ===
+Context Snippet:
+What are the signs and symptoms of Chromosome 1q41-q42 deletion syndrome? The Human Phenotype Ontology provides the following list of signs and symptoms for Chromosome 1q41-q42 deletion syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Anteverted nares - ...
+
+Generated Question:
+What is the approximate number of patients who exhibit anteverted nares in Chromosome 1q41-q42 deletion syndrome?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 64 ===
+Context Snippet:
+How is Ehlers-Danlos syndrome progeroid type inherited? Ehlers-Danlos syndrome progeroid type is inherited in an autosomal recessive pattern. This means that an individual must have two non-functional copies of the B4GALT7 gene to be affected with the condition. One copy is inherited from each parent. If an individual has only one non-functional B4GALT7 gene (such as each parent), he or she is a "carrier". Carriers do not typically show any signs or symptoms of a recessive condition. When two ca...
+
+Generated Question:
+How does the inheritance pattern of Ehlers-Danlos syndrome progeroid type differ between parents and offspring?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 65 ===
+Context Snippet:
+Is autoimmune hemolytic anemia inherited? In many cases, the cause of autoimmune hemolytic anemia remains unknown. Some researchers believe that there are multiple factors involved, including genetic and environmental influences (multifactorial). In a very small number of cases, autoimmune hemolytic anemia appears to run in families. In these cases, it appears to follow an autosomal recessive pattern of inheritance. If you have concerns about the specific risks in your family, we encourage you t...
+
+Generated Question:
+Does autoimmune hemolytic anemia have an autosomal recessive pattern of inheritance?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 66 ===
+Context Snippet:
+Risk factors that increase your chance of getting lung cancer include - cigarette, cigar, and pipe smoking, which account for well over half of all cases of lung cancer  - secondhand smoke  - family history  - HIV infection  - environmental risk factors  - beta carotene supplements in heavy smokers. cigarette, cigar, and pipe smoking, which account for well over half of all cases of lung cancer secondhand smoke family history HIV infection environmental risk factors beta carotene supplements in ...
+
+Generated Question:
+What are the risk factors for developing lung cancer, according to the text?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 67 ===
+Context Snippet:
+How might hereditary multiple osteochondromas (HMO) be treated? Currently, there is no known medical treatment for HMO. Osteochondromas are not usually removed because they stop growing around age 12. Another consideration is how close the tumor is to the affected bone's growth plate, because surgery can affect how the bone grows. Surgery may be considered, however, if an osteochondroma is causing pain, bone fracture, nerve irritation, or if the tumor continues to grow after the person's bones h...
+
+Generated Question:
+What are the recommended treatment options for a chondrosarcoma in someone with Hereditary Multiple Osteochondromas (HMO)?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 68 ===
+Context Snippet:
+A prosthetic joint infection (PJI) is a rare complication of joint replacement surgery, also known as arthroplasty.  Arthroplasty is done to help relieve pain and restore function in a severely diseased joint, such as a knee, hip or shoulder.  Approximately 0.5 to 1 percent of people with replacement joints develop a PJI.  Infections can occur early in the course of recovery from joint replacement surgery (within the first two months) or much later.  Signs and symptoms of PJI include fever, chil...
+
+Generated Question:
+What is the approximate percentage of people with joint replacement surgery who develop a prosthetic joint infection?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 69 ===
+Context Snippet:
+Granuloma annulare is a long-term (chronic) skin disease consisting of a rash with reddish bumps arranged in a circle or ring. The most commonly affected areas are the forearms, hands and feet. The lesions associated with granuloma annulare usually resolve without treatment. Strong steroids (applied as a cream or injection) are sometimes used to clear the rash more quickly. Most symptoms will disappear within 2 years (even without treatment), but recurrence is common. The underlying cause of gra...
+
+Generated Question:
+What is the most common area on the body for Granuloma annulare to appear?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 70 ===
+Context Snippet:
+While childbirth usually goes well, complications can happen. They can cause a risk to the mother, baby, or both. Possible complications include       - Preterm (premature) labor, when labor starts before 37 completed weeks of pregnancy    - Problems with the umbilical cord    - Problems with the position of the baby, such as breech, in which the baby is going to come out feet first    - Birth injuries       For some of these problems, the baby may need to be delivered surgically by a Cesarean s...
+
+Generated Question:
+What are some potential complications associated with childbirth?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 71 ===
+Context Snippet:
+Cancers occur when a buildup of mutations in critical genesthose that control cell growth and division or repair damaged DNAallow cells to grow and divide uncontrollably to form a tumor. In most cases of breast cancer, these genetic changes are acquired during a person's lifetime and are present only in certain cells in the breast. These changes, which are called somatic mutations, are not inherited. Somatic mutations in many different genes have been found in breast cancer cells. Less commonly,...
+
+Generated Question:
+What are the two proteins produced from the BRCA1 and BRCA2 genes and what is their function?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 72 ===
+Context Snippet:
+What are the signs and symptoms of Ocular cicatricial pemphigoid? The Human Phenotype Ontology provides the following list of signs and symptoms for Ocular cicatricial pemphigoid. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormal blistering of the skin 90%...
+
+Generated Question:
+What are the approximate percentages of patients who exhibit abnormal blistering of the skin and ophthalmic inflammation in Ocular cicatricial pemphigoid?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 73 ===
+Context Snippet:
+Snoring is the sound you make when your breathing is blocked while you are asleep. The sound is caused by tissues at the top of your airway that strike each other and vibrate. Snoring is common, especially among older people and people who are overweight.    When severe, snoring can cause frequent awakenings at night and daytime sleepiness. It can disrupt your bed partner's sleep. Snoring can also be a sign of a serious sleep disorder called sleep apnea. You should see your health care provider ...
+
+Generated Question:
+What are the potential consequences of frequent snoring?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 74 ===
+Context Snippet:
+New types of treatment are being tested in clinical trials.
+                    This summary section describes treatments that are being studied in clinical trials. It may not mention every new treatment being studied. Information about clinical trials is available from the NCI website.     Chemotherapy and radiation therapy with stem cell transplant     High-dose chemotherapy and radiation therapy with stem cell transplant is a way of giving high doses of chemotherapy and radiation therapy and ...
+
+Generated Question:
+What is the mechanism by which stem cells are used in high-dose chemotherapy and radiation therapy with stem cell transplant?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 75 ===
+Context Snippet:
+Small fiber neuropathy is inherited in an autosomal dominant pattern, which means one copy of the altered SCN9A gene or SCN10A gene in each cell is sufficient to cause the disorder. In some cases, an affected person inherits the mutation from one affected parent. Other cases result from new mutations in the gene and occur in people with no history of the disorder in their family.  When the genetic cause of small fiber neuropathy is unknown or when the condition is caused by another disorder, the...
+
+Generated Question:
+How does the inheritance pattern of small fiber neuropathy differ based on the presence of a family history of the disorder?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 76 ===
+Context Snippet:
+What is diabetes?
+                
+There are three main types of diabetes:
+                
+- Type 1 diabetes  Your body does not make insulin. This is a problem because you need insulin to take the sugar (glucose) from the foods you eat and turn it into energy for your body. You need to take insulin every day to live.   - Type 2 diabetes  Your body does not make or use insulin well. You may need to take pills or insulin to help control your diabetes. Type 2 is the most common type of diabetes. ...
+
+Generated Question:
+What are the three main types of diabetes?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 77 ===
+Context Snippet:
+What causes acute intermittent porphyria (AIP)? AIP is caused by the deficiency of an enzyme called porphobilinogen deaminase (PBGD), also known as hydroxymethylbilane synthase (HMBS) and formerly known as uroporphyrinogen I-synthase. The deficiency of PBGD is caused by a mutation in the HMBS gene. The HMBS gene is the only gene known to be associated with AIP. However, the deficiency of PBGD alone is not enough to cause AIP. Other activating factors (e.g., hormones, drugs, dietary changes) must...
+
+Generated Question:
+What are the activating factors that must be present in addition to a deficiency of PBGD to cause acute intermittent porphyria?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 78 ===
+Context Snippet:
+How is Fine-Lubinsky syndrome inherited? Almost all people reported to have FineLubinsky syndrome (FLS) have been the only affected people in their families (these cases were sporadic). There has been one report of an affected brother and sister with unaffected parents, suggesting autosomal recessive inheritance. Additional reports are needed to identify a possible genetic cause for the condition. Parents of a child with FLS should be aware that if the condition is inherited in an autosomal rece...
+
+Generated Question:
+What is the mode of inheritance of Fine-Lubinsky syndrome?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 79 ===
+Context Snippet:
+If you take a medicine in a way that is different from what the doctor prescribed, it is called prescription drug abuse. It could be       - Taking a medicine that was prescribed for someone else    - Taking a larger dose than you are supposed to    - Taking the medicine in a different way than you are supposed to. This might be crushing tablets and then snorting or injecting them.    - Using the medicine for another purpose, such as getting high       Abusing some prescription drugs can lead to...
+
+Generated Question:
+What are the three specific ways in which people may abuse prescription drugs?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 80 ===
+Context Snippet:
+A single-celled parasite called Toxoplasma gondii causes a disease known as toxoplasmosis. While the parasite is found throughout the world, more than 60 million people in the United States may be infected with the Toxoplasma parasite. Of those who are infected, very few have symptoms because a healthy person’s immune system usually keeps the parasite from causing illness. However, pregnant women and individuals who have compromised immune systems should be cautious; for them, a Toxoplasma infec...
+
+Generated Question:
+What are the conditions that may necessitate heightened caution for individuals when dealing with Toxoplasma gondii infection?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 81 ===
+Context Snippet:
+Hereditary endotheliopathy with retinopathy, nephropathy, and stroke (HERNS) is a rare genetic condition that affects the vascular endothelium (the inner lining of the arteries and blood vessels). Specifically, the small blood vessels of the brain (microangiopathy); retina (vascular retinopathy); and kidneys are affected. Signs and symptoms may include progressive adult onset vision loss, psychiatric disturbances, stroke-like episodes, neurologic decline, and kidney disease. HERNS is inherited i...
+
+Generated Question:
+What specific genetic condition is associated with mutations in the TREX1 gene, and how does it manifest in terms of vascular and neurological complications?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 82 ===
+Context Snippet:
+What causes congenital diaphragmatic hernia? Congenital diaphragmatic hernia (CDH) can occur as an isolated finding, as part of a genetic syndrome or chromosome abnormality, or as part of a complex but nonsyndromic set of findings. Currently, about 15%-20% of individuals with CDH have an identifiable cause for their diaphragm defect. These individuals are classified as having syndromic CDH either resulting from a recognized chromosome abnormality or as a single gene disorder. In the remaining 80...
+
+Generated Question:
+What are the potential causes of congenital diaphragmatic hernia in the majority of individuals, identified as non-syndromic?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 83 ===
+Context Snippet:
+How might infections in individuals with epidermolysis bullosa be treated? The chance of contracting a skin infection can be reduced by good nutrition, which builds the bodys defenses and promotes healing, and by careful skin care with clean hands and use of sterile materials. For added protection, a doctor may recommend antibiotic ointments and soaks. However, even in the presence of good care, it is possible for infection to develop. Signs of infection are redness and heat around an open area ...
+
+Generated Question:
+What methods can be used to treat an infection in individuals with epidermolysis bullosa?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 84 ===
+Context Snippet:
+What are the signs and symptoms of X-linked lymphoproliferative syndrome? The Human Phenotype Ontology provides the following list of signs and symptoms for X-linked lymphoproliferative syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Cellular immunodefi...
+
+Generated Question:
+What are the estimated percentages of patients with X-linked lymphoproliferative syndrome displaying splenomegaly and hepatomegaly?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 85 ===
+Context Snippet:
+Lymphoma is a cancer of a part of the immune system called the lymph system. There are many types of lymphoma. One type is Hodgkin disease. The rest are called non-Hodgkin lymphomas.    Non-Hodgkin lymphomas begin when a type of white blood cell, called a T cell or B cell, becomes abnormal. The cell divides again and again, making more and more abnormal cells. These abnormal cells can spread to almost any other part of the body. Most of the time, doctors don't know why a person gets non-Hodgkin ...
+
+Generated Question:
+What are the possible causes of a heightened risk for developing non-Hodgkin lymphoma?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 86 ===
+Context Snippet:
+Key Points
+                    - There are different types of treatment for children with brain stem glioma.     - Children with brain stem glioma should have their treatment planned by a team of health care providers who are experts in treating childhood brain tumors.    - Childhood brain stem gliomas may cause signs or symptoms that begin before the cancer is diagnosed and continue for months or years.    - Some cancer treatments cause side effects months or years after treatment has ended.   ...
+
+Generated Question:
+What are the six types of standard treatment used for childhood brain stem glioma?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 87 ===
+Context Snippet:
+What are the signs and symptoms of Optic atrophy 1? The Human Phenotype Ontology provides the following list of signs and symptoms for Optic atrophy 1. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Strabismus 10% Horizontal nystagmus 5% Progressive external oph...
+
+Generated Question:
+What percentage of individuals with Optic atrophy 1 experience horizontal nystagmus?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 88 ===
+Context Snippet:
+What are the signs and symptoms of 2q37 deletion syndrome? Most babies with 2q37 deletion syndrome are born with hypotonia, which usually improves with age. About 25 percent of those with this condition have autism, a developmental condition that affects communication and social interaction. The characteristic facial features include a prominent forehead, highly arched eyebrows, deep-set eyes, a flat nasal bridge, a thin upper lip, and minor ear abnormalities. Other features can include short st...
+
+Generated Question:
+What percentage of individuals with 2q37 deletion syndrome have autism?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 89 ===
+Context Snippet:
+What are the signs and symptoms of Deafness with labyrinthine aplasia microtia and microdontia (LAMM)? The Human Phenotype Ontology provides the following list of signs and symptoms for Deafness with labyrinthine aplasia microtia and microdontia (LAMM). If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approxima...
+
+Generated Question:
+What is the approximate percentage of patients with Deafness with labyrinthine aplasia microtia and microdontia (LAMM) who have an abnormality of the cranial nerves?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 90 ===
+Context Snippet:
+The classic form of Vohwinkel syndrome is caused by mutations in the GJB2 gene. This gene provides instructions for making a protein called gap junction beta 2, more commonly known as connexin 26. Connexin 26 is a member of the connexin protein family. Connexin proteins form channels called gap junctions that permit the transport of nutrients, charged atoms (ions), and signaling molecules between neighboring cells that are in contact with each other. Gap junctions made with connexin 26 transport...
+
+Generated Question:
+What specific role of connexin 26 in the inner ear contributes to the conversion of sound waves to electrical nerve impulses?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 91 ===
+Context Snippet:
+Familial Mediterranean fever is almost always inherited in an autosomal recessive pattern, which means both copies of the MEFV gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.  In rare cases, this condition appears to be inherited in an autosomal dominant pattern. An autosomal dominant inheritance pattern describes cases in which one cop...
+
+Generated Question:
+What is the genetic mechanism underlying the apparent autosomal dominant inheritance of a case of familial Mediterranean fever, and how does it relate to the inheritance pattern of the MEFV gene?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 92 ===
+Context Snippet:
+What are the signs and symptoms of Impairment of oral perception? The Human Phenotype Ontology provides the following list of signs and symptoms for Impairment of oral perception. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Autosomal recessive inheritance - D...
+
+Generated Question:
+Which of the following is listed as a symptom of Impairment of oral perception in the Human Phenotype Ontology (HPO)?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 93 ===
+Context Snippet:
+What are the signs and symptoms of Kasznica Carlson Coppedge syndrome? The Human Phenotype Ontology provides the following list of signs and symptoms for Kasznica Carlson Coppedge syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of the palate...
+
+Generated Question:
+What percentage of patients with Kasznica Carlson Coppedge syndrome are reported to have an abnormality of the palate?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 94 ===
+Context Snippet:
+Key Points
+                    - There are different types of treatment for patients with thymoma and thymic carcinoma.    - Four types of standard treatment are used:         - Surgery     - Radiation therapy     - Chemotherapy     - Hormone therapy        - New types of treatment are being tested in clinical trials.     - Patients may want to think about taking part in a clinical trial.    - Patients can enter clinical trials before, during, or after starting their cancer treatment.    - Follo...
+
+Generated Question:
+What are the standard treatment options for thymoma and thymic carcinoma?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 95 ===
+Context Snippet:
+These resources address the diagnosis or management of CPT I deficiency:  - Baby's First Test  - FOD (Fatty Oxidation Disorders) Family Support Group: Diagnostic Approach to Disorders of Fat Oxidation - Information for Clinicians  - Gene Review: Gene Review: Carnitine Palmitoyltransferase 1A Deficiency  - Genetic Testing Registry: Carnitine palmitoyltransferase I deficiency   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Di...
+
+Generated Question:
+Which of the following is a common initial diagnostic approach for CPT I deficiency in newborns?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 96 ===
+Context Snippet:
+GM1 gangliosidosis is an inherited lysosomal storage disorder that progressively destroys nerve cells (neurons) in the brain and spinal cord. The condition may be classified into three major types based on the general age that signs and symptoms first appear: classic infantile (type 1); juvenile (type 2); and adult onset or chronic (type 3). Although the types differ in severity, their features may overlap significantly. GM1 gangliosidosis is caused by mutations in the GLB1 gene and is inherited...
+
+Generated Question:
+What are the three main types of GM1 gangliosidosis, based on the age at which signs and symptoms first appear?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 97 ===
+Context Snippet:
+Gangliocytoma is a rare type of central nervous system (CNS) tumor made up of mature neurons. Gangliocytomas may occur in all age groups but most often occur in people between the ages of 10 and 30. The most common site is the temporal lobe of the brain, but they can arise anywhere in the CNS including the cerebellum, brainstem, floor of the third ventricle, and spinal cord. They are among the most frequent tumors associated with epilepsy. Signs and symptoms may depend on the tumor's location an...
+
+Generated Question:
+What is the most common site for gangliocytoma formation in the central nervous system?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 98 ===
+Context Snippet:
+Is genetic testing available for Stargardt disease? Yes. Genetic testing may help distinguish the type of Stargardt disease a person has, and provide information about the mode of inheritance and risks to other family members. The Genetic Testing Registry (GTR) provides information about the genetic tests available for Stargardt disease. The intended audience for the GTR is health care providers and researchers. Patients and consumers with specific questions about genetic testing for this condit...
+
+Generated Question:
+What are the potential benefits of genetic testing for Stargardt disease, specifically in terms of diagnosis and family implications?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 99 ===
+Context Snippet:
+How might deafness, progressive with stapes fixation be treated? Treatment for deafness, progressive with stapes fixation typically involves surgery. The conductive component of the hearing loss can be restored by surgery or hearing aids. The associated sensorineural component is managed by hearing aids or cochlear implants, depending on its severity. Stapedotomy (a procedure where a laser is used to make a hole in the stapes) or partial stapedectomy (removal of the stapes) with stapes replaceme...
+
+Generated Question:
+What surgical options are available to restore conductive hearing loss associated with stapes fixation?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 100 ===
+Context Snippet:
+Type 1 diabetes, which used to be called called juvenile diabetes or insulin-dependent diabetes, develops most often in young people. However, type 1 diabetes can also develop in adults. With this form of diabetes, your body no longer makes insulin or doesnt make enough insulin because your immune system has attacked and destroyed the insulin-producing cells. About 5 to 10 percent of people with diabetes have type 1 diabetes. To survive, people with type 1 diabetes must have insulin delivered by...
+
+Generated Question:
+What is the primary reason individuals diagnosed with type 1 diabetes require insulin injections or pumps?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 101 ===
+Context Snippet:
+What are the signs and symptoms of Metaphyseal acroscyphodysplasia? The Human Phenotype Ontology provides the following list of signs and symptoms for Metaphyseal acroscyphodysplasia. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of the femur 90% Ab...
+
+Generated Question:
+What percentage of patients with Metaphyseal acroscyphodysplasia have a deformed metacarpal bone?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 102 ===
+Context Snippet:
+One way to prevent taeniasis is to cook meat to safe temperatures. A food thermometer should be used to measure the internal temperature of cooked meat. Do not sample meat until it is cooked. USDA recommends the following for meat preparation.
+   
+    - For Whole Cuts of Meat (excluding poultry) 
+     
+      - Cook to at least 145° F (63° C) as measured with a food thermometer placed in the thickest part of the meat, then allow the meat to rest* for three minutes before carving or consuming.
+   ...
+
+Generated Question:
+What is the minimum internal temperature recommended for cooking whole cuts of meat, as measured by a food thermometer, and what is the purpose of the resting time after cooking?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 103 ===
+Context Snippet:
+Tests that examine the ovaries, pelvic area, blood, and ovarian tissue are used to detect (find) and diagnose ovarian germ cell tumor. The following tests and procedures may be used:          -   Physical exam and history : An exam of the body to check general signs of health, including checking for signs of disease, such as lumps or anything else that seems unusual. A history of the patients health habits and past illnesses and treatments will also be taken.    -   Pelvic exam : An exam of the ...
+
+Generated Question:
+What specific tests may be used to check for signs of disease in the ovaries, pelvic area, and blood?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 104 ===
+Context Snippet:
+Ankylosing spondylitis is likely caused by a combination of genetic and environmental factors, most of which have not been identified. However, researchers have found variations in several genes that influence the risk of developing this disorder.  The HLA-B gene provides instructions for making a protein that plays an important role in the immune system. The HLA-B gene is part of a family of genes called the human leukocyte antigen (HLA) complex. The HLA complex helps the immune system distingu...
+
+Generated Question:
+What role does the HLA-B gene play in the immune system, and how does a variation in this gene increase the risk of developing ankylosing spondylitis?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 105 ===
+Context Snippet:
+What are the signs and symptoms of Hyperprolinemia type 2? The Human Phenotype Ontology provides the following list of signs and symptoms for Hyperprolinemia type 2. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Autosomal recessive inheritance - Hydroxyprolinur...
+
+Generated Question:
+What are the approximate numbers of patients with Hyperprolinemia type 2 who experience seizures?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 106 ===
+Context Snippet:
+How is cramp-fasciculation syndrome diagnosed?  A diagnosis of cramp-fasciculation syndrome is generally based on the presence of characteristic signs and symptoms. Namely, a history of frequent muscle cramps, twitching, and pain (often worsened by exercise) without muscle weakness or wasting is suggestive of the condition. It is also important to rule out other conditions that may cause similar features. Electromyography (EMG) or repetitive nerve stimulation studies may also be done to assess t...
+
+Generated Question:
+What methods are used to assess the health of muscles and the nerves controlling them in the diagnosis of cramp-fasciculation syndrome?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 107 ===
+Context Snippet:
+Your health care team will help you make a healthy eating plan with food choices that are good for both you and your baby. These choices are good for you to follow throughout pregnancy and after, as you raise your family.
+                
+Using a healthy eating plan will help your blood glucose stay in your target range. The plan will help you know which foods to eat, how much to eat, and when to eat. Food choices, amounts, and timing are all important in keeping your blood glucose levels in you...
+
+Generated Question:
+How can a healthy eating plan help maintain blood sugar levels within a target range?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 108 ===
+Context Snippet:
+People normally have 46 chromosomes in each cell. Two of the 46 chromosomes, known as X and Y, are called sex chromosomes because they help determine whether a person will develop male or female sex characteristics. Females typically have two X chromosomes (46,XX), and males have one X chromosome and one Y chromosome (46,XY).  Triple X syndrome results from an extra copy of the X chromosome in each of a female's cells. As a result of the extra X chromosome, each cell has a total of 47 chromosome...
+
+Generated Question:
+What are the key features associated with triple X syndrome?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 109 ===
+Context Snippet:
+A stroke occurs when the blood supply to part of the brain is suddenly interrupted or when a blood vessel in the brain bursts, spilling blood into the spaces surrounding brain cells. Brain cells die when they no longer receive oxygen and nutrients from the blood or there is sudden bleeding into or around the brain. The symptoms of a stroke include sudden numbness or weakness, especially on one side of the body; sudden confusion or trouble speaking or understanding speech; sudden trouble seeing i...
+
+Generated Question:
+What are the two main forms of stroke?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 110 ===
+Context Snippet:
+Are there non-genetic causes of paroxysmal nonkinesigenic dyskinesia? Yes. Sporadic (non-genetic) causes of paroxysmal nonkinesigenic dyskinesia have been reported in the literature. Non-genetic causes include lesions of the basal ganglia due to multiple sclerosis, tumors, and vascular lesions. In addition, lesions outside the basal ganglia (including those due to penetrating injury) have been reported as causing symptoms similar to those found in paroxysmal nonkinesigenic dyskinesia. In these s...
+
+Generated Question:
+What are three non-genetic causes of paroxysmal nonkinesigenic dyskinesia, as reported in the literature?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 111 ===
+Context Snippet:
+Certain factors affect prognosis (chance of recovery) and treatment options. The prognosis (chance of recovery) and treatment options depend on the following:         - The stage of the cancer (whether the cancer is in the inner lining of the colon only or has spread through the colon wall, or has spread to lymph nodes or other places in the body).    - Whether the cancer has blocked or made a hole in the colon.    - Whether there are any cancer cells left after surgery.    - Whether the cancer ...
+
+Generated Question:
+What factors affect the prognosis and treatment options for colon cancer?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 112 ===
+Context Snippet:
+What are the signs and symptoms of Familial dilated cardiomyopathy? The Human Phenotype Ontology provides the following list of signs and symptoms for Familial dilated cardiomyopathy. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Hypertrophic cardiomyopathy 90%...
+
+Generated Question:
+What are the approximate percentages of people with Familial dilated cardiomyopathy who exhibit Hypertrophic Cardiomyopathy, Abnormality of neutrophils, EMG abnormality and Lipoatrophy?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 113 ===
+Context Snippet:
+Researchers have not found that eating, diet, and nutrition play a role in causing or preventing primary amyloidosis of the kidneys or dialysis-related amyloidosis. People with nephrotic syndrome may make dietary changes such as
+                
+- limiting dietary sodium, often from salt, to help reduce edema and lower blood pressure  - decreasing liquid intake to help reduce edema and lower blood pressure  - eating a diet low in saturated fat and cholesterol to help control more-than-normal amo...
+
+Generated Question:
+What dietary modifications may be recommended for individuals with kidney disease to maintain optimal kidney function?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 114 ===
+Context Snippet:
+Alzheimers disease is a brain disease that slowly destroys memory and thinking skills and, eventually, the ability to carry out the simplest tasks. It begins slowly and gets worse over time. Currently, it has no cure. A Common Cause of Dementia Alzheimers disease is the most common cause of dementia among older people. Dementia is a loss of thinking, remembering, and reasoning skills that interferes with a persons daily life and activities. Dementia ranges in severity from the mild stage, when i...
+
+Generated Question:
+What are the two main features of Alzheimer's disease as identified by Dr. Alois Alzheimer?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 115 ===
+Context Snippet:
+Wilson disease is a rare inherited disorder that is characterized by the accumulation of copper in the body. Because high levels of copper are toxic to tissues and organs, this buildup can lead to damage of the liver, brain and eyes. Signs and symptoms of Wilson disease include chronic liver disease, central nervous system abnormalities, and psychiatric (mental health-related) disturbances. It is caused by a mutation of the ATP7B gene and is inherited in an autosomal recessive manner. Although t...
+
+Generated Question:
+What is the primary mechanism by which Wilson disease causes damage to the liver, brain, and eyes?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 116 ===
+Context Snippet:
+The GI tract is a series of hollow organs joined in a long, twisting tube from the mouth to the anus. The movement of muscles in the GI tract, along with the release of hormones and enzymes, allows for the digestion of food. Organs that make up the GI tract are the mouth, esophagus, stomach, small intestine, large intestinewhich includes the appendix, cecum, colon, and rectumand anus. The intestines are sometimes called the bowel. The last part of the GI tractcalled the lower GI tractconsists of...
+
+Generated Question:
+What are the primary functions of the large intestine?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 117 ===
+Context Snippet:
+- When a person has only one kidney or one working kidney, this kidney is called a solitary kidney. The three main causes of a solitary kidney are birth defects, surgical removal of a kidney, and kidney donation.  - In general, people with a solitary kidney lead full, healthy lives. However, some people are more likely to develop kidney disease.  - People with a solitary kidney should be tested regularly for the following signs of kidney damage:      - albuminuria    - decreased glomerular filtr...
+
+Generated Question:
+What are the three main causes of a solitary kidney?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 118 ===
+Context Snippet:
+This condition is inherited in an X-linked recessive pattern. The MED12 gene is located on the X chromosome, which is one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a mutation would have to occur in both copies of the gene to cause the disorder.  Because it is unlikely that females will have two altered copies of this gene, males are affected by X-l...
+
+Generated Question:
+What is the inheritance pattern for the MED12 gene, and how does it affect the likelihood of males and females developing the condition?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 119 ===
+Context Snippet:
+How is Rotor syndrome diagnosed? Rotor syndrome is diagnosed based on symptoms and various laboratory tests. Physical exams in affected people are typically normal, except for mild jaundice. There are two forms of bilirubin in the body: a toxic form called unconjugated bilirubin and a nontoxic form called conjugated bilirubin. People with Rotor syndrome have a buildup of both in their blood (hyperbilirubinemia), but having elevated levels of conjugated bilirubin is the hallmark of the disorder. ...
+
+Generated Question:
+What is the hallmark of Rotor syndrome, and what percentage of total bilirubin is typically found in affected individuals?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 120 ===
+Context Snippet:
+Summary : Like adults, kids need exercise. Most children need at least an hour of physical activity every day. Regular exercise helps children       - Feel less stressed     - Feel better about themselves    - Feel more ready to learn in school     - Keep a healthy weight     - Build and keep healthy bones, muscles and joints     - Sleep better at night       As kids spend more time watching TV, they spend less time running and playing. Parents should limit TV, video game and computer time. Pare...
+
+Generated Question:
+What are the potential benefits of physical activity for children, as stated in the text?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 121 ===
+Context Snippet:
+Hepatic veno-occlusive disease with immunodeficiency (also called VODI) is a hereditary disorder of the liver and immune system. Its signs and symptoms appear after the first few months of life.  Hepatic veno-occlusive disease is a condition that blocks (occludes) small veins in the liver, disrupting blood flow in this organ. This condition can lead to enlargement of the liver (hepatomegaly), a buildup of scar tissue (hepatic fibrosis), and liver failure.  Children with VODI are prone to recurre...
+
+Generated Question:
+What is the primary mechanism by which Hepatic Veno-Occlusive Disease (VOD) impacts blood flow in the liver?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 122 ===
+Context Snippet:
+In adults, symptoms of mineral and bone disorder in CKD may not appear until bone changes have taken place for many years. For this reason, people often refer to the disease as a silent crippler. Eventually, a person with the condition may begin to feel bone and joint pain.
+                
+
+                
+Mineral and Bone Disorder in Children with Chronic Kidney Disease   Mineral and bone disorder in CKD is most serious when it occurs in children because their bones are still developing and g...
+
+Generated Question:
+What is the reason why symptoms of mineral and bone disorder in adults with CKD may not appear until years after the bone changes have started?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 123 ===
+Context Snippet:
+Patients with essential thrombocythemia may have no signs or symptoms. Essential thrombocythemia often does not cause early signs or symptoms. It may be found during a routine blood test. Signs and symptoms may be caused by essential thrombocytopenia or by other conditions. Check with your doctor if you have any of the following:         - Headache.    - Burning or tingling in the hands or feet.    - Redness and warmth of the hands or feet.    - Vision or hearing problems.        Platelets are s...
+
+Generated Question:
+What are the potential consequences of an excessive number of platelets clumping together in the blood?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 124 ===
+Context Snippet:
+Summary : You can't see radon. And you can't smell it or taste it. But it may be a problem in your home. Radon comes from the natural breakdown of uranium in soil, rock, and water. Radon is the second leading cause of lung cancer in the United States.     There are low levels of radon outdoors. Indoors, there can be high levels. Radon can enter homes and buildings through cracks in floors, walls, or foundations. Radon can also be in your water, especially well water. Testing is the only way to k...
+
+Generated Question:
+What is the second leading cause of lung cancer in the United States?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 125 ===
+Context Snippet:
+Autosomal dominant partial epilepsy with auditory features (ADPEAF) is a rare form of epilepsy, a condition that is characterized by recurrent seizures. In ADPEAF, specifically, most affected people experience secondary generalized seizures and partial seizures, some of which are associated with sound-related symptoms (such as buzzing, humming, or ringing) and/or receptive aphasia (inability to understand written or spoken words). Less commonly, seizures may cause visual hallucinations, a distur...
+
+Generated Question:
+What aspects of ADPEAF are primarily associated with the presence of sound-related symptoms?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 126 ===
+Context Snippet:
+Neonatal progeroid syndrome is a rare genetic syndrome characterized by an aged appearance at birth. Other signs and symptoms include intrauterine growth restriction, feeding difficulties, distinctive craniofacial features, hypotonia, developmental delay and mild to severe intellectual disability. In most cases, affected infants pass away before age 7 months, but rare reports exist of survival into the teens or early 20s. Although the exact underlying cause of neonatal progeroid syndrome is unkn...
+
+Generated Question:
+What are the typical presenting features of neonatal progeroid syndrome?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 127 ===
+Context Snippet:
+Farber lipogranulomatosis is a rare inherited condition involving the breakdown and use of fats in the body (lipid metabolism). In affected individuals, lipids accumulate abnormally in cells and tissues throughout the body, particularly around the joints.  Three classic signs occur in Farber lipogranulomatosis: a hoarse voice or a weak cry, small lumps of fat under the skin and in other tissues (lipogranulomas), and swollen and painful joints. Affected individuals may also have difficulty breath...
+
+Generated Question:
+How does Farber lipogranulomatosis manifest in individuals, particularly in newborns, and what are the key features associated with it?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 128 ===
+Context Snippet:
+When a hazardous chemical has been released, it may harm people's health. Chemical releases can be unintentional, as in the case of an industrial accident. They could also be planned, as in the case of a terrorist attack with a chemical weapon.    Some hazardous chemicals have been developed by military organizations for use in warfare. Examples are nerve agents such as sarin and VX. Many hazardous chemicals are used in industry - for example, chlorine, ammonia, and benzene. Some can be made fro...
+
+Generated Question:
+What are some examples of hazardous chemicals that can be used in warfare?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 129 ===
+Context Snippet:
+Anaplastic ganglioglioma (AGG) is a very rare type of brain tumor that is a type of ganglioglioma. In general, gangliogliomas are classified as grade I or low grade tumors, meaning that they grow slowly and are considered benign. Anaplastic gangliogliomas, however, are considered grade III or high grade tumors, which means that they are usually aggressive, malignant tumors. The main treatment is removal of the entire tumor during surgery.  If the entire tumor is not removed, it has the potential...
+
+Generated Question:
+What is the primary treatment for anaplastic ganglioglioma?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 130 ===
+Context Snippet:
+What are the signs and symptoms of Jensen syndrome? The Human Phenotype Ontology provides the following list of signs and symptoms for Jensen syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Blindness - Cerebral calcification - Dementia - Generalized amy...
+
+Generated Question:
+What are the signs and symptoms of Jensen syndrome?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 131 ===
+Context Snippet:
+Reactive arthritis is a type of infectious arthritis that occurs as a reaction to an infection elsewhere in the body. This process may occur weeks or even months after the infection has resolved. In addition to joint inflammation, reactive arthritis is associated with two other symptoms: redness and inflammation of the eyes (conjunctivitis) and inflammation of the urinary tract (urethritis). These symptoms may occur alone, together, or not at all. The symptoms of reactive arthritis usually last ...
+
+Generated Question:
+What two additional symptoms may accompany reactive arthritis, alongside joint inflammation?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 132 ===
+Context Snippet:
+What are the signs and symptoms of ICF syndrome? The Human Phenotype Ontology provides the following list of signs and symptoms for ICF syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Decreased antibody level in blood 90% Recurrent respiratory infection...
+
+Generated Question:
+What proportion of patients with ICF syndrome exhibit cellular immunodeficiency?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 133 ===
+Context Snippet:
+Rett syndrome is a progressive, neuro-developmental condition that primarily affects girls. Affected girls appear to have normal psychomotor development during the first 6 to 18 months of life, followed by a developmental "plateau," and then rapid regression in language and motor skills. Additional signs and symptoms may include repetitive, stereotypic hand movements; fits of screaming and inconsolable crying; autistic features; panic-like attacks; teeth grinding (bruxism); episodic apnea and/or...
+
+Generated Question:
+What are the common signs and symptoms of Rett syndrome, and which of these are most frequently linked to the MECP2 gene mutation?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 134 ===
+Context Snippet:
+How might Poland syndrome be treated? Management of Poland syndrome may include surgical correction of the chest wall deformities. Surgical options are available to improve appearance in both males and females. In females, breast reconstruction is typically performed at the time of normal full breast development and can be planned in conjunction with or following reconstruction of the chest wall. In males reconstruction of the chest may not be necessary if there is no underlying chest wall defor...
+
+Generated Question:
+What are the surgical options available for treating Poland syndrome?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 135 ===
+Context Snippet:
+Certain factors affect prognosis (chance of recovery) and treatment options. The prognosis (chance of recovery) and treatment options depend on the following:          - Where the cancer formed in the urethra.    - Whether the cancer has spread through the mucosa lining the urethra to nearby tissue, to lymph nodes, or to other parts of the body.    - Whether the patient is a male or female.    - The patient's general health.    - Whether the cancer has just been diagnosed or has recurred (come b...
+
+Generated Question:
+What factors contribute to the prognosis and treatment options for cancer in the urethra?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 136 ===
+Context Snippet:
+What are the signs and symptoms of Infantile convulsions and paroxysmal choreoathetosis, familial? The Human Phenotype Ontology provides the following list of signs and symptoms for Infantile convulsions and paroxysmal choreoathetosis, familial. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate numbe...
+
+Generated Question:
+What are the approximate percentages of patients exhibiting chorea, EEG abnormality, seizures, and incoordination, and the potential presence of migraine and stereotypic behavior in relation to the condition?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 137 ===
+Context Snippet:
+What are the signs and symptoms of Camurati-Engelmann disease? People with Camurati-Engelmann disease have increased bone density, particularly affecting the long bones of the arms and legs (tibia, femur, humerus, ulna, radius). In some cases, the skull and hip bones are also affected. The thickened bones can lead to pain in the arms and legs, a waddling walk, muscle weakness, and extreme tiredness. An increase in the density of the skull results in increased pressure on the brain and can cause ...
+
+Generated Question:
+What are the approximate percentages of patients experiencing abnormal femur, humerus, and ulna bone morphology with Camurati-Engelmann disease?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 138 ===
+Context Snippet:
+Beriberi is a condition that occurs in people who are deficient in thiamine (vitamin B1). There are two major types of beriberi: wet beriberi which affects the cardiovascular system and dry beriberi which affects the nervous system. People with wet beriberi may experience increased heart rate, shortness of breath, and swelling of the lower legs. Signs and symptoms of dry beriberi include difficulty walking; loss of feeling in the hands and/or feet; paralysis of the lower legs; mental confusion; ...
+
+Generated Question:
+What are the primary clinical presentations associated with wet beriberi?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 139 ===
+Context Snippet:
+Up to 15 percent of Japanese people with moyamoya disease have one or more family members with the condition, indicating that the condition can be passed through generations in families; however, the inheritance pattern is unknown. Research suggests that the condition follows an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. However, some people who have a copy of the altered gene never develop the condition, which is a situ...
+
+Generated Question:
+What is the genetic inheritance pattern of moyamoya disease, according to the text?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 140 ===
+Context Snippet:
+Alport syndrome is a genetic condition characterized by kidney disease, hearing loss, and eye abnormalities. Most affected individuals experience progressive loss of kidney function, usually resulting in end-stage kidney disease. People with Alport syndrome also frequently develop sensorineural hearing loss in late childhood or early adolescence. The eye abnormalities seen in this condition seldom lead to vision loss. In 80% of cases, Alport syndrome is inherited in an X-linked manner and is cau...
+
+Generated Question:
+What are the primary causes of Alport syndrome, considering the genetic basis and potential mechanisms of the condition?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 141 ===
+Context Snippet:
+No specific studies have been done on how to prevent coronary microvascular disease.
+                
+Researchers dont yet know how or in what way preventing coronary microvascular disease differs from preventing coronary heart disease. Coronary microvascular disease affects the tiny coronary arteries; coronary heart disease affects the large coronary arteries.
+                
+Taking action to control risk factors for heart disease can help prevent or delay coronary heart disease. You cant cont...
+
+Generated Question:
+What are some specific recommendations for a heart-healthy eating plan, as described in the text?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 142 ===
+Context Snippet:
+Cold weather can affect your body in different ways. You can get frostbite, which is frozen body tissue. Your body can also lose heat faster than you can produce it. The result is hypothermia, or abnormally low body temperature. It can make you sleepy, confused and clumsy. Because it happens gradually and affects your thinking, you may not realize you need help. That makes it especially dangerous. A body temperature below 95 F is a medical emergency and can lead to death if not treated promptly....
+
+Generated Question:
+What are the signs and symptoms of hypothermia?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 143 ===
+Context Snippet:
+Isolated growth hormone deficiency is caused by mutations in one of at least three genes. Isolated growth hormone deficiency types IA and II are caused by mutations in the GH1 gene. Type IB is caused by mutations in either the GH1 or GHRHR gene. Type III is caused by mutations in the BTK gene.  The GH1 gene provides instructions for making the growth hormone protein. Growth hormone is produced in the pituitary gland and plays a major role in promoting the body's growth. Growth hormone also plays...
+
+Generated Question:
+What are the primary roles of growth hormone in the body?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 144 ===
+Context Snippet:
+Cerebral arteriosclerosis is the result of thickening and hardening of the walls of the arteries in the brain. Symptoms of cerebral arteriosclerosis include headache, facial pain, and impaired vision.
+                
+Cerebral arteriosclerosis can cause serious health problems. If the walls of an artery are too thick, or a blood clot becomes caught in the narrow passage, blood flow to the brain can become blocked and cause an ischemic stroke. When the thickening and hardening is uneven, arterial...
+
+Generated Question:
+What types of damage can cerebral arteriosclerosis lead to in the brain, as demonstrated by vascular dementia?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 145 ===
+Context Snippet:
+VLDLR-associated cerebellar hypoplasia is an inherited condition that affects the development of the brain. People with this condition have an unusually small and underdeveloped cerebellum, which is the part of the brain that coordinates movement. This brain malformation leads to problems with balance and coordination (ataxia) that become apparent in infancy and remain stable over time. Children with VLDLR-associated cerebellar hypoplasia may learn to walk later in childhood, usually after the a...
+
+Generated Question:
+What is the relationship between VLDLR-associated cerebellar hypoplasia and the ability to walk independently in childhood?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 146 ===
+Context Snippet:
+What causes alpha-1 antitrypsin deficiency? Alpha-1 antitrypsin deficiency (AATD) is caused by mutations in the SERPINA1 gene. This gene gives the body instructions to make a protein called alpha-1 antitrypsin (AAT), which protects the body from an enzyme called neutrophil elastase. Neutrophil elastase helps the body fight infections, but it can also attack healthy tissues (especially the lungs) if not controlled by AAT. Mutations that cause AAT can cause a deficiency or absence of AAT, or a for...
+
+Generated Question:
+What is the relationship between mutations in the SERPINA1 gene and the deficiency or absence of alpha-1 antitrypsin (AAT)?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 147 ===
+Context Snippet:
+Scientists don't know exactly what causes colorectal cancer, but they have been able to identify some risk factors for the disease. A risk factor is anything that increases your chances of getting a disease. Studies show that the following risk factors may increase a person's chances of developing colorectal cancer: age, polyps, personal history, family history, and ulcerative colitis. Age Colorectal cancer is more likely to occur as people get older. It is more common in people over the age of ...
+
+Generated Question:
+What are the risk factors listed in the text that increase the chance of developing colorectal cancer?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 148 ===
+Context Snippet:
+Treatment is symptomatic. Children with GAN and their families usually work with a medical team that includes a pediatric neurologist, orthopedic surgeon, physiotherapist, psychologist, and speech and occupational therapists. The major goals of treatment are to maximize intellectual and physical development and minimize their deterioration as time passes. Many children with GAN begin with normal intellectual development and are able to attend a regular school program. Children should be monitore...
+
+Generated Question:
+What are the major goals of treatment for children with GAN, as per the text?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 149 ===
+Context Snippet:
+Age-related macular degeneration (AMD) is an eye condition characterized by progressive destruction of the macula. The macula is located in the retina in the eye and enables one to see fine details and perform tasks that require central vision, such as reading and driving. Signs and symptoms include vision loss, which usually becomes noticeable in a person's sixties or seventies and tends to worsen over time. There are 2 major types of AMD, known as the dry form and the wet form. The dry form ac...
+
+Generated Question:
+What is the primary function of the macula?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 150 ===
+Context Snippet:
+What are the signs and symptoms of Loeys-Dietz syndrome type 4? The Human Phenotype Ontology provides the following list of signs and symptoms for Loeys-Dietz syndrome type 4. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Bicuspid aortic valve 5% Emphysema 5% H...
+
+Generated Question:
+What are the approximate percentages of patients with Loeys-Dietz syndrome type 4 who have a bicuspid aortic valve?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 151 ===
+Context Snippet:
+Wernicke-Korsakoff syndrome is a brain disorder due to thiamine deficiency that has been associated with both Wernicke's encephalopathy and Korsakoff syndrome. Wernicke's encephalopathy can result from alcohol abuse, dietary deficiencies, prolonged vomiting, eating disorders, or the effects of chemotherapy. Korsakoff's amnesic syndrome is a memory disorder that is associated with alcoholism and involvement of the heart, vascular, and nervous system. Although these conditions may appear to be two...
+
+Generated Question:
+What are the two primary causes of Wernicke-Korsakoff syndrome?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 152 ===
+Context Snippet:
+Idiopathic inflammatory myopathy is a group of disorders characterized by inflammation of the muscles used for movement (skeletal muscles). Idiopathic inflammatory myopathy usually appears in adults between ages 40 and 60 or in children between ages 5 and 15, though it can occur at any age.  The primary symptom of idiopathic inflammatory myopathy is muscle weakness, which develops gradually over a period of weeks to months or even years. Other symptoms include joint pain and general tiredness (f...
+
+Generated Question:
+What are the common muscles most affected by polymyositis and dermatomyositis, and how might muscle weakness in these forms of the disease affect daily activities?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 153 ===
+Context Snippet:
+Did You Know: Breast Cancer Statistics? Breast cancer is one of the most common cancers in American women. It is most common among women between the ages of 45-85. Today, more women are surviving breast cancer than ever before. Over two million women are breast cancer survivors. (Watch the video to learn more about breast cancer survival rates. To enlarge the video, click the brackets in the lower right-hand corner. To reduce the video, press the Escape (Esc) button on your keyboard.) Men can ge...
+
+Generated Question:
+What is the age range in which women are most commonly diagnosed with breast cancer in the United States?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 154 ===
+Context Snippet:
+What are the signs and symptoms of Carnitine-acylcarnitine translocase deficiency? The signs of carnitine-acylcarnitine translocase deficiency usually begin within the first few hours after birth. Seizures, an irregular heartbeat (arrhythmia), and breathing problems are often the first signs of this disorder. This disorder may also result in an extremely low level of ketones, which are products of fat breakdown that are used for energy. Low blood sugar (hypoglycemia) is another major feature. To...
+
+Generated Question:
+What are the signs of Carnitine-acylcarnitine translocase deficiency that may lead to an episode of hypoketotic hypoglycemia?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 155 ===
+Context Snippet:
+How is mosaic trisomy 9 diagnosed? In some cases, mosaic trisomy 9 is diagnosed before birth. A pregnancy ultrasound may reveal signs and symptoms that are suggestive of a chromosomal or developmental disorder. Additional tests, such as chorionic villus sampling (CVS) or an amniocentesis, may be offered to further investigate these features. During a CVS, a tissue sample from a portion of the placenta is removed and analyzed, while amniocentesis involves the removal of a sample of fluid that sur...
+
+Generated Question:
+What method can be used to analyze a sample of blood for the presence of mosaic trisomy 9?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 156 ===
+Context Snippet:
+What are the signs and symptoms of Acromesomelic dysplasia Maroteaux type? The Human Phenotype Ontology provides the following list of signs and symptoms for Acromesomelic dysplasia Maroteaux type. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormal form of ...
+
+Generated Question:
+What percentage of individuals with Acromesomelic dysplasia Maroteaux type display abnormal form of the vertebral bodies?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 157 ===
+Context Snippet:
+During the first three stages of diabetic retinopathy, no treatment is needed, unless you have macular edema. To prevent progression of diabetic retinopathy, people with diabetes should control their levels of blood sugar, blood pressure, and blood cholesterol. Proliferative retinopathy is treated with laser surgery. This procedure is called scatter laser treatment. Scatter laser treatment helps to shrink the abnormal blood vessels. Your doctor places 1,000 to 2,000 laser burns in the areas of t...
+
+Generated Question:
+What is the primary goal of scatter laser treatment in diabetic retinopathy?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 158 ===
+Context Snippet:
+What causes congenital anosmia? Congenital anosmia may occur as an isolated abnormality or be associated with specific genetic disorders (such as Kallmann syndrome and congenital insensitivity to pain). Most cases of isolated congenital anosmia (not associated with additional symptoms) occur sporadically in people with no family history of the condition. In these people, the exact underlying cause of the condition is unknown. Most likely, there is more than one cause. Scientists suspect that the...
+
+Generated Question:
+What genetic disorders are associated with congenital anosmia and what may cause it, according to the text?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 159 ===
+Context Snippet:
+What are the signs and symptoms of Muckle-Wells syndrome? The Human Phenotype Ontology provides the following list of signs and symptoms for Muckle-Wells syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Arthralgia 90% Arthritis 90% Broad foot 90% Cranial...
+
+Generated Question:
+What percentage of people with Muckle-Wells syndrome experience arthritic symptoms?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 160 ===
+Context Snippet:
+Haemophilus is the name of a group of bacteria. There are several types of Haemophilus. They can cause different types of illnesses involving breathing, bones and joints, and the nervous system.    One common type, Hib (Haemophilus influenzae type b), causes serious disease. It usually strikes children under 5 years old. Your child can get Hib disease by being around other children or adults who may have the bacteria and not know it. The germs spread from person to person. If the germs stay in t...
+
+Generated Question:
+What are the potential consequences of Hib bacteria spreading into a child's lungs or bloodstream?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 161 ===
+Context Snippet:
+Nocardiosis is a rare disorder that affects the brain, skin, and/or lungs. It occurs mainly in people with a weakened immune system. This condition usually starts in the lungs and can spread to other body organs. Affected individuals usually experience problems with their lungs (chest pain, coughing up blood, fevers), brain (headaches and seizures), and skin (skin infections, ulcers, and abscesses). The nocardia bacteria are found in soil around the world. People contract this disease by either ...
+
+Generated Question:
+What is the primary mode of transmission for nocardiosis, and what are the two main ways people contract the disease?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 162 ===
+Context Snippet:
+How is Singleton Merten syndrome diagnosed? The diagnosis of Singleton Merten syndrome may be suspected during infancy based upon the identification of characteristic physical findings (i.e., muscle weakness, muscle atrophy, dental abnormalities, and skeletal changes). A diagnosis may be confirmed by a thorough clinical evaluation, a detailed patient history, and/or a variety of specialized tests. The identification of calcium deposits in the aorta, in association with the other findings describ...
+
+Generated Question:
+In the context of Singleton Merten syndrome diagnosis, what specific findings associated with muscle weakness, muscle atrophy, and skeletal changes suggest the presence of the syndrome?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 163 ===
+Context Snippet:
+Fucosidosis is a condition that affects many areas of the body, especially the brain. Affected individuals have intellectual disability that worsens with age, and many develop dementia later in life. People with this condition often have delayed development of motor skills such as walking; the skills they do acquire deteriorate over time. Additional signs and symptoms of fucosidosis include impaired growth; abnormal bone development (dysostosis multiplex); seizures; abnormal muscle stiffness (sp...
+
+Generated Question:
+What are the typical developmental milestones that are significantly delayed in individuals with fucosidosis?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 164 ===
+Context Snippet:
+What causes acute intermittent porphyria (AIP)? AIP is caused by the deficiency of an enzyme called porphobilinogen deaminase (PBGD), also known as hydroxymethylbilane synthase (HMBS) and formerly known as uroporphyrinogen I-synthase. The deficiency of PBGD is caused by a mutation in the HMBS gene. The HMBS gene is the only gene known to be associated with AIP. However, the deficiency of PBGD alone is not enough to cause AIP. Other activating factors (e.g., hormones, drugs, dietary changes) must...
+
+Generated Question:
+What are the factors, aside from PBGD deficiency, that can trigger an AIP diagnosis?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 165 ===
+Context Snippet:
+Why Are Childhood Vaccines So Important? It is always better to prevent a disease than to treat it after it occurs. Diseases that used to be common in this country and around the world, including polio, measles, diphtheria, pertussis (whooping cough), rubella (German measles), mumps, tetanus, rotavirus and Haemophilus influenzae type b (Hib) can now be prevented by vaccination. Thanks to a vaccine, one of the most terrible diseases in history – smallpox – no longer exists outside the laboratory....
+
+Generated Question:
+What are the benefits of childhood vaccination in terms of disease prevention and the protection of vulnerable individuals in a community?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 166 ===
+Context Snippet:
+Your doctor will diagnose high blood cholesterol by checking the cholesterol levels in your blood. A blood test called a lipoprotein panel can measure your cholesterol levels. Before the test, youll need to fast (not eat or drink anything but water) for 9 to 12 hours.
+                
+The lipoprotein panel will give your doctor information about your:
+                
+Total cholesterol. Total cholesterol is a measure of the total amount of cholesterol in your blood, including low-density lipopro...
+
+Generated Question:
+What are the two main types of cholesterol measured by a lipoprotein panel, and how are they classified?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 167 ===
+Context Snippet:
+What are the signs and symptoms of Orofaciodigital syndrome 2? Although the signs and symptoms that occur in people with orofaciodigital syndrome type 2 may vary, the following findings may be present:Facial findings Nodules (bumps) of the tongue Cleft lip Thick frenula (a strong cord of tissue that is visible and easily felt if you look in the mirror under your tongue and under your lips) Dystopia canthorum (an unusually wide nasal bridge resulting in widely spaced eyes) Finger and toe findings...
+
+Generated Question:
+What are the possible signs of Orofaciodigital syndrome type 2, according to the Human Phenotype Ontology?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 168 ===
+Context Snippet:
+What causes oculopharyngeal muscular dystrophy? Oculopharyngeal muscular dystrophy (OPMD) is caused by mutations in the PABPN1 gene. The PABPN1 gene provides instructions for making a protein that is active (expressed) throughout the body. In cells, the PABPN1 protein plays an important role in processing molecules called messenger RNAs (mRNAs), which serve as genetic blueprints for making proteins. The protein acts to protect the mRNA from being broken down and allows it to move within the cell...
+
+Generated Question:
+What role does the PABPN1 protein play in cells, and how does its function relate to the development of oculopharyngeal muscular dystrophy?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 169 ===
+Context Snippet:
+Key Points
+                    - There are different types of treatment for patients with pituitary tumors.    - Four types of standard treatment are used:         - Surgery     - Radiation therapy     - Drug therapy     - Chemotherapy        - New types of treatment are being tested in clinical trials.     - Patients may want to think about taking part in a clinical trial.    - Patients can enter clinical trials before, during, or after starting their cancer treatment.    - Follow-up tests may ...
+
+Generated Question:
+What types of surgical procedures are used to remove pituitary tumors?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 170 ===
+Context Snippet:
+Is 3-hydroxyisobutyric aciduria inherited? Cases of 3-hydroxyisobutyric aciduria thought to be caused by changes (mutations) in the ALDH6A1 gene are inherited in an autosomal recessive manner. This means that to be affected, a person must have a mutation in both copies of the responsible gene in each cell. The parents of an affected person usually each carry one mutated copy of the gene and are referred to as carriers. Carriers typically do not show signs or symptoms of the condition. When two c...
+
+Generated Question:
+How does the inheritance pattern of 3-hydroxyisobutyric aciduria relate to the presence or absence of symptoms in carriers?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 171 ===
+Context Snippet:
+How is multiple myeloma diagnosed? A diagnosis of multiple myeloma may be suspected based on the presence of characteristic signs and symptoms. Additional testing can then be ordered to confirm the diagnosis. This may include: Specialized blood tests including immunoglobulin studies, complete blood count with differential, and blood chemistry studies Urine tests such as immunoglobulin studies and a twenty-four-hour urine test Bone marrow aspiration and biopsy Imaging studies such as an X-ray of ...
+
+Generated Question:
+What are the specialized blood tests that may be ordered to confirm a diagnosis of multiple myeloma?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 172 ===
+Context Snippet:
+How might 47 XXX syndrome be treated? There is no cure for 47 XXX syndrome, and there is no way to remove the extra X chromosome that is present in an affected individual's cells. Management of the condition varies and depends on several factors including the age at diagnosis, the specific symptoms that are present, and the overall severity of the disorder in the affected individual. Early intervention services are typically recommended for infants and children that are diagnosed with the condit...
+
+Generated Question:
+What are some common treatments recommended for infants and children diagnosed with 47 XXX syndrome?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 173 ===
+Context Snippet:
+Key Points
+                    - Avoiding risk factors and increasing protective factors may help prevent cancer.    - The following are risk factors for oral cavity cancer and oropharyngeal cancer:         - Tobacco use     - Alcohol use     - Tobacco and alcohol use     - Betel quid or gutka chewing     - Personal history of head and neck cancer        - The following is a risk factor for oropharyngeal cancer:         - HPV infection        - The following is a protective factor for oral cavit...
+
+Generated Question:
+How does the use of tobacco, in combination with alcohol use, increase the risk of oral cavity and oropharyngeal cancer?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 174 ===
+Context Snippet:
+What are the signs and symptoms of Mucopolysaccharidosis type IIIC? The Human Phenotype Ontology provides the following list of signs and symptoms for Mucopolysaccharidosis type IIIC. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Coarse hair 90% Cognitive impai...
+
+Generated Question:
+What is the approximate percentage of people with Mucopolysaccharidosis type IIIC who have cognitive impairment?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 175 ===
+Context Snippet:
+Bloom syndrome is an inherited disorder characterized by short stature, a skin rash that develops after exposure to the sun, and a greatly increased risk of cancer.  People with Bloom syndrome are usually smaller than 97 percent of the population in both height and weight from birth, and they rarely exceed 5 feet tall in adulthood.  Affected individuals have skin that is sensitive to sun exposure, and they usually develop a butterfly-shaped patch of reddened skin across the nose and cheeks. A sk...
+
+Generated Question:
+What are the common skin features associated with Bloom syndrome that are not related to the rashes?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 176 ===
+Context Snippet:
+The most common symptoms of a cataract are - cloudy or blurry vision  - colors seem faded  - glare -- headlights, lamps, or sunlight appearing too bright, or a halo may appear around lights  - poor night vision  - double vision or multiple images in one eye  - frequent prescription changes in your eyeglasses or contact lenses. cloudy or blurry vision colors seem faded glare -- headlights, lamps, or sunlight appearing too bright, or a halo may appear around lights poor night vision double vision ...
+
+Generated Question:
+What are the common symptoms associated with a cataract, and how might they be related to a change in a person's vision prescription?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 177 ===
+Context Snippet:
+What are the signs and symptoms of Meleda disease? The Human Phenotype Ontology provides the following list of signs and symptoms for Meleda disease. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Lichenification 90% Palmoplantar keratoderma 90% Abnormality of t...
+
+Generated Question:
+What are the approximate percentages of patients with Meleda disease exhibiting the following signs and symptoms:  lichenification, palmoplantar keratoderma, abnormaility of the palate, and finger syndactyly?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 178 ===
+Context Snippet:
+Summary : Folic acid is a B vitamin. It helps the body make healthy new cells. Everyone needs folic acid. For women who may get pregnant, it is really important. Getting enough folic acid before and during pregnancy can prevent major birth defects of her baby's brain or spine.     Foods with folic acid in them include       - Leafy green vegetables    - Fruits    - Dried beans, peas, and nuts    - Enriched breads, cereals and other grain products       If you don't get enough folic acid from the...
+
+Generated Question:
+What dietary sources of folic acid are recommended for women who may become pregnant to prevent birth defects?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 179 ===
+Context Snippet:
+No vaccines or drugs to prevent infection are available. The best way for travelers to prevent infection is to protect themselves from sand fly bites. To decrease the risk of being bitten, follow these preventive measures:
+    
+Avoid outdoor activities, especially from dusk to dawn, when sand flies generally are the most active.
+    
+When outdoors (or in unprotected quarters):
+    
+     - Minimize the amount of exposed (uncovered) skin. To the extent that is tolerable in the climate, wear long-s...
+
+Generated Question:
+What insecticide-treated clothing should be worn to decrease the risk of sand fly bites?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 180 ===
+Context Snippet:
+Birds, just like people, get the flu. Bird flu viruses infect birds, including chickens, other poultry, and wild birds such as ducks. Most bird flu viruses can only infect other birds. However, bird flu can pose health risks to people. The first case of a bird flu virus infecting a person directly, H5N1, was in Hong Kong in 1997. Since then, the bird flu virus has spread to birds in countries in Asia, Africa, the Middle East, and Europe.    Human infection is still very rare, but the virus that ...
+
+Generated Question:
+What are the potential risks of human infection with bird flu, and how can such infections be managed?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 181 ===
+Context Snippet:
+Mutations in the PYGM gene cause GSDV. The PYGM gene provides instructions for making an enzyme called myophosphorylase. This enzyme is found only in muscle cells, where it breaks down glycogen into a simpler sugar called glucose-1-phosphate. Additional steps convert glucose-1-phosphate into glucose, a simple sugar that is the main energy source for most cells.  PYGM gene mutations prevent myophosphorylase from breaking down glycogen effectively. As a result, muscle cells cannot produce enough e...
+
+Generated Question:
+What is the primary cellular function of the myophosphorylase enzyme, and where is it located?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 182 ===
+Context Snippet:
+All persons diagnosed with African Trypanosomiasis should receive treatment. The specific drug and treatment course will depend on the type of infection (T. b. gambiense or T. b. rhodesiense) and the disease stage (i.e. whether the central nervous system has been invaded by the parasite). Pentamidine, which is the recommended drug for first stage T. b. gambiense infection, is widely available in the U.S. The other drugs (suramin, melarsoprol, eflornithine, and nifurtimox) used to treat African t...
+
+Generated Question:
+What are the two main types of African Trypanosomiasis, and what factors influence the chosen treatment for each type?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 183 ===
+Context Snippet:
+What are the signs and symptoms of Rheumatic Fever? Rheumatic fever is primarily diagnosed in children between the ages of 6 and 16 and can affect many different systems of the body, including the heart, joints, nervous system and/or skin. The condition usually develops approximately 14-28 days after infection with group A Streptococcus bacteria, such as strep throat or scarlet fever. Early signs and symptoms may include sore throat; swollen red tonsils; fever; headache; and/or muscle aches. Aff...
+
+Generated Question:
+What are the possible signs and symptoms of Rheumatic fever that may indicate a need for further investigation, according to the Human Phenotype Ontology (HPO)?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 184 ===
+Context Snippet:
+What are the signs and symptoms of factor V Leiden thrombophilia? Individuals affected by factor V Leiden thrombophilia have an increased risk of developing blood clots. The severity of factor V Leiden thrombophilia is extremely variable. Many individuals with the factor V Leiden allele never develop a blood clot. Although most individuals with factor V thrombophilia do not experience their first thrombotic event until adulthood, some have recurrent thromboembolism before age 30 years. The chanc...
+
+Generated Question:
+What are the possible symptoms of deep vein thrombosis (DVT)?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 185 ===
+Context Snippet:
+What are the signs and symptoms of Pyruvate decarboxylase deficiency? The Human Phenotype Ontology provides the following list of signs and symptoms for Pyruvate decarboxylase deficiency. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormal facial shape 35% A...
+
+Generated Question:
+What are the approximate percentages of patients presenting with abnormal facial shape, and with frequent episodes of apneic episodes precipitated by illness, fatigue, or stress in the context of Pyruvate decarboxylase deficiency?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 186 ===
+Context Snippet:
+Key Points
+                    - After ovarian, fallopian tube, or peritoneal cancer has been diagnosed, tests are done to find out if cancer cells have spread within the ovaries or to other parts of the body.     - There are three ways that cancer spreads in the body.    - Cancer may spread from where it began to other parts of the body.    - The following stages are used for ovarian epithelial, fallopian tube, and primary peritoneal cancer:         - Stage I     - Stage II     - Stage III     ...
+
+Generated Question:
+What are the stages of ovarian epithelial, fallopian tube, and primary peritoneal cancers distinguished by?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 187 ===
+Context Snippet:
+What are the signs and symptoms of Patterson pseudoleprechaunism syndrome? The Human Phenotype Ontology provides the following list of signs and symptoms for Patterson pseudoleprechaunism syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormal cortical...
+
+Generated Question:
+What are the approximate percentages of patients who exhibit abnormal cortical bone morphology, and how often does the abnormality of the metaphyses occur in people with Patterson pseudoleprechaunism syndrome?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 188 ===
+Context Snippet:
+What are the signs and symptoms of Apparent mineralocorticoid excess? The Human Phenotype Ontology provides the following list of signs and symptoms for Apparent mineralocorticoid excess. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Autosomal recessive inherit...
+
+Generated Question:
+What are the signs and symptoms of Apparent mineralocorticoid excess, as defined by the Human Phenotype Ontology?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 189 ===
+Context Snippet:
+Previous chemotherapy and exposure to radiation may increase the risk of developing ALL. Anything that increases your risk of getting a disease is called a risk factor. Having a risk factor does not mean that you will get cancer; not having risk factors doesnt mean that you will not get cancer. Talk with your doctor if you think you may be at risk. Possible risk factors for ALL include the following:         - Being male.    - Being white.    - Being older than 70.    - Past treatment with chemo...
+
+Generated Question:
+What are the possible risk factors for developing acute lymphoblastic leukemia (ALL)?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 190 ===
+Context Snippet:
+Rhizomelic chondrodysplasia punctata results from mutations in one of three genes. Mutations in the PEX7 gene, which are most common, cause RCDP1. Changes in the GNPAT gene lead to RCDP2, while AGPS gene mutations result in RCDP3.  The genes associated with rhizomelic chondrodysplasia punctata are involved in the formation and function of structures called peroxisomes. Peroxisomes are sac-like compartments within cells that contain enzymes needed to break down many different substances, includin...
+
+Generated Question:
+How do mutations in the PEX7, GNPAT, and AGPS genes affect the production of plasmalogens, and what are the implications of this for the development of rhizomelic chondrodysplasia punctata?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 191 ===
+Context Snippet:
+A congenital heart defect is a problem with the structure of the heart. It is present at birth. Congenital heart defects are the most common type of birth defect. The defects can involve the walls of the heart, the valves of the heart, and the arteries and veins near the heart. They can disrupt the normal flow of blood through the heart. The blood flow can slow down, go in the wrong direction or to the wrong place, or be blocked completely.    Doctors use a physical exam and special heart tests ...
+
+Generated Question:
+What are the common signs and symptoms of a severe congenital heart defect in newborns?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 192 ===
+Context Snippet:
+What are the signs and symptoms of Warfarin sensitivity? The Human Phenotype Ontology provides the following list of signs and symptoms for Warfarin sensitivity. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of blood and blood-forming tissues - Abno...
+
+Generated Question:
+What are the signs and symptoms of Warfarin sensitivity according to the Human Phenotype Ontology?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 193 ===
+Context Snippet:
+Lennox-Gastaut syndrome is a form of severe epilepsy that begins in childhood. It is characterized by multiple types of seizures and intellectual disability. This condition can be caused by brain malformations, perinatal asphyxia (lack of oxygen), severe head injury, central nervous system infection and inherited degenerative or metabolic conditions. In about one-third of cases, no cause can be found. Treatment for Lennox-Gastaut syndrome includes anti-epileptic medications such as valproate, la...
+
+Generated Question:
+In Lennox-Gastaut syndrome, what is the primary characteristic that distinguishes it from other forms of epilepsy?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 194 ===
+Context Snippet:
+Pulmonary arterial hypertension (PAH) is a progressive condition that affects the heart and lungs. It is characterized by abnormally high blood pressure (hypertension) in the pulmonary artery, the blood vessel that carries blood from the heart to the lungs. The most common signs and symptoms are shortness of breath (dyspnea) during exertion and fainting spells. As the condition worsens, people can experience dizziness, swelling (edema) of the ankles or legs, chest pain, and a racing pulse. Most ...
+
+Generated Question:
+What are the most common signs and symptoms of pulmonary arterial hypertension?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 195 ===
+Context Snippet:
+Common variable immune deficiency (CVID) is a disorder that impairs the immune system. People with CVID are highly susceptible to infection from foreign invaders such as bacteria, or more rarely, viruses and often develop recurrent infections, particularly in the lungs, sinuses, and ears. Pneumonia is common in people with CVID. Over time, recurrent infections can lead to chronic lung disease. Affected individuals may also experience infection or inflammation of the gastrointestinal tract, which...
+
+Generated Question:
+What are the two most common types of autoimmune disorders associated with Common Variable Immune Deficiency (CVID)?
+
+Validation: YES (Automatically Filtered)
+==================================================
+
+=== QUERY 196 ===
+Context Snippet:
 OUT_OF_DOMAIN...
 
 Generated Question:
@@ -550,7 +2043,7 @@ What is the capital of France?
 Validation: YES (Automatically Filtered)
 ==================================================
 
-=== QUERY 52 ===
+=== QUERY 197 ===
 Context Snippet:
 OUT_OF_DOMAIN...
 
@@ -560,7 +2053,7 @@ Who won the 2024 Super Bowl?
 Validation: YES (Automatically Filtered)
 ==================================================
 
-=== QUERY 53 ===
+=== QUERY 198 ===
 Context Snippet:
 OUT_OF_DOMAIN...
 
@@ -570,7 +2063,7 @@ Who was Asclepius?
 Validation: YES (Automatically Filtered)
 ==================================================
 
-=== QUERY 54 ===
+=== QUERY 199 ===
 Context Snippet:
 OUT_OF_DOMAIN...
 
@@ -580,7 +2073,7 @@ who are you?
 Validation: YES (Automatically Filtered)
 ==================================================
 
-=== QUERY 55 ===
+=== QUERY 200 ===
 Context Snippet:
 OUT_OF_DOMAIN...
 
